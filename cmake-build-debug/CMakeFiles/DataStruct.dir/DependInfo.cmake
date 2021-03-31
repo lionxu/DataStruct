@@ -1,0 +1,39 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "D:/CLionProjects/DataStruct/hello.c" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/hello.c.obj"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../."
+  "../leetcode"
+  )
+set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstring.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstringKDistinct.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstringTwoDistinct.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringTwoDistinct.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/longestSubstring.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/longestSubstring.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/maxSlidingWindow.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxSlidingWindow.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/minWindow.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/subarraysWithKDistinct.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../."
+  "../leetcode"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
