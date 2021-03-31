@@ -58,10 +58,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "D:\Program Files\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "D:\Program Files\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -78,7 +78,7 @@ CMAKE_BINARY_DIR = D:\CLionProjects\DataStruct\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"D:\Program Files\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -89,7 +89,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"D:\Program Files\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -168,6 +168,33 @@ hello.s: hello.c.s
 hello.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/hello.c.s
 .PHONY : hello.c.s
+
+leetcode/characterReplacement.obj: leetcode/characterReplacement.cpp.obj
+
+.PHONY : leetcode/characterReplacement.obj
+
+# target to build an object file
+leetcode/characterReplacement.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.obj
+.PHONY : leetcode/characterReplacement.cpp.obj
+
+leetcode/characterReplacement.i: leetcode/characterReplacement.cpp.i
+
+.PHONY : leetcode/characterReplacement.i
+
+# target to preprocess a source file
+leetcode/characterReplacement.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.i
+.PHONY : leetcode/characterReplacement.cpp.i
+
+leetcode/characterReplacement.s: leetcode/characterReplacement.cpp.s
+
+.PHONY : leetcode/characterReplacement.s
+
+# target to generate assembly for a file
+leetcode/characterReplacement.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.s
+.PHONY : leetcode/characterReplacement.cpp.s
 
 leetcode/lengthOfLongestSubstring.obj: leetcode/lengthOfLongestSubstring.cpp.obj
 
@@ -370,6 +397,9 @@ help:
 	@echo ... hello.obj
 	@echo ... hello.i
 	@echo ... hello.s
+	@echo ... leetcode/characterReplacement.obj
+	@echo ... leetcode/characterReplacement.i
+	@echo ... leetcode/characterReplacement.s
 	@echo ... leetcode/lengthOfLongestSubstring.obj
 	@echo ... leetcode/lengthOfLongestSubstring.i
 	@echo ... leetcode/lengthOfLongestSubstring.s

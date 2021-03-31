@@ -14,4 +14,5 @@ add_executable(DataStruct
         leetcode/maxSlidingWindow.cpp
         leetcode/longestSubstring.cpp
         leetcode/lengthOfLongestSubstringTwoDistinct.cpp
-        leetcode/lengthOfLongestSubstringKDistinct.cpp)
+        leetcode/lengthOfLongestSubstringKDistinct.cpp
+        leetcode/characterReplacement.cpp)

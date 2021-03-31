@@ -45,7 +45,7 @@ public:
     }
 };
 
-int main(){
+int test_longestSubstring(){
     Solution solution;
     cout << solution.longestSubstring("aaabb", 3) << endl;
     cout << solution.longestSubstring("ababbc", 2) << endl;
