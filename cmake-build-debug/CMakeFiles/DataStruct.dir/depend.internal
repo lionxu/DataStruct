@@ -5,6 +5,8 @@ CMakeFiles/DataStruct.dir/hello.c.obj
  D:/CLionProjects/DataStruct/hello.c
 CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/characterReplacement.cpp
+CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/checkInclusion.cpp
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstring.cpp
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj
@@ -15,6 +17,10 @@ CMakeFiles/DataStruct.dir/leetcode/longestSubstring.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/longestSubstring.cpp
 CMakeFiles/DataStruct.dir/leetcode/maxSlidingWindow.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/maxSlidingWindow.cpp
+CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/maxTurbulenceSize.cpp
+CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/medianSlidingWindow.cpp
 CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/minWindow.cpp
 CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj

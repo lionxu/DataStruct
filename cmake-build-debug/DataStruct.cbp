@@ -92,6 +92,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/characterReplacement.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/checkInclusion.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstring.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -105,6 +108,12 @@
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/maxSlidingWindow.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/maxTurbulenceSize.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/medianSlidingWindow.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/minWindow.cpp">

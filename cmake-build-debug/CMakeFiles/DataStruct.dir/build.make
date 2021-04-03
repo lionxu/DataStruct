@@ -202,6 +202,48 @@ CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.s"
 	D:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\characterReplacement.cpp -o CMakeFiles\DataStruct.dir\leetcode\characterReplacement.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj: ../leetcode/medianSlidingWindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj"
+	D:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\medianSlidingWindow.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\medianSlidingWindow.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.i"
+	D:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\medianSlidingWindow.cpp > CMakeFiles\DataStruct.dir\leetcode\medianSlidingWindow.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.s"
+	D:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\medianSlidingWindow.cpp -o CMakeFiles\DataStruct.dir\leetcode\medianSlidingWindow.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj: ../leetcode/checkInclusion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj"
+	D:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\checkInclusion.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\checkInclusion.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.i"
+	D:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\checkInclusion.cpp > CMakeFiles\DataStruct.dir\leetcode\checkInclusion.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.s"
+	D:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\checkInclusion.cpp -o CMakeFiles\DataStruct.dir\leetcode\checkInclusion.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj: ../leetcode/maxTurbulenceSize.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj"
+	D:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\maxTurbulenceSize.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\maxTurbulenceSize.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.i"
+	D:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\maxTurbulenceSize.cpp > CMakeFiles\DataStruct.dir\leetcode\maxTurbulenceSize.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.s"
+	D:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\maxTurbulenceSize.cpp -o CMakeFiles\DataStruct.dir\leetcode\maxTurbulenceSize.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -212,7 +254,10 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/longestSubstring.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringTwoDistinct.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -226,11 +271,14 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/longestSubstring.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringTwoDistinct.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

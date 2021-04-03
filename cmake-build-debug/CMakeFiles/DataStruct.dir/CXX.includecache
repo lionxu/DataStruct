@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/characterReplacement.cpp
-string
--
-unordered_map
--
+D:/CLionProjects/DataStruct/leetcode/maxTurbulenceSize.cpp
 iostream
+-
+vector
 -
 

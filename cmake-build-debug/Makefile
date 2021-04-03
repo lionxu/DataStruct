@@ -196,6 +196,33 @@ leetcode/characterReplacement.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.s
 .PHONY : leetcode/characterReplacement.cpp.s
 
+leetcode/checkInclusion.obj: leetcode/checkInclusion.cpp.obj
+
+.PHONY : leetcode/checkInclusion.obj
+
+# target to build an object file
+leetcode/checkInclusion.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj
+.PHONY : leetcode/checkInclusion.cpp.obj
+
+leetcode/checkInclusion.i: leetcode/checkInclusion.cpp.i
+
+.PHONY : leetcode/checkInclusion.i
+
+# target to preprocess a source file
+leetcode/checkInclusion.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.i
+.PHONY : leetcode/checkInclusion.cpp.i
+
+leetcode/checkInclusion.s: leetcode/checkInclusion.cpp.s
+
+.PHONY : leetcode/checkInclusion.s
+
+# target to generate assembly for a file
+leetcode/checkInclusion.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.s
+.PHONY : leetcode/checkInclusion.cpp.s
+
 leetcode/lengthOfLongestSubstring.obj: leetcode/lengthOfLongestSubstring.cpp.obj
 
 .PHONY : leetcode/lengthOfLongestSubstring.obj
@@ -331,6 +358,60 @@ leetcode/maxSlidingWindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxSlidingWindow.cpp.s
 .PHONY : leetcode/maxSlidingWindow.cpp.s
 
+leetcode/maxTurbulenceSize.obj: leetcode/maxTurbulenceSize.cpp.obj
+
+.PHONY : leetcode/maxTurbulenceSize.obj
+
+# target to build an object file
+leetcode/maxTurbulenceSize.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj
+.PHONY : leetcode/maxTurbulenceSize.cpp.obj
+
+leetcode/maxTurbulenceSize.i: leetcode/maxTurbulenceSize.cpp.i
+
+.PHONY : leetcode/maxTurbulenceSize.i
+
+# target to preprocess a source file
+leetcode/maxTurbulenceSize.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.i
+.PHONY : leetcode/maxTurbulenceSize.cpp.i
+
+leetcode/maxTurbulenceSize.s: leetcode/maxTurbulenceSize.cpp.s
+
+.PHONY : leetcode/maxTurbulenceSize.s
+
+# target to generate assembly for a file
+leetcode/maxTurbulenceSize.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.s
+.PHONY : leetcode/maxTurbulenceSize.cpp.s
+
+leetcode/medianSlidingWindow.obj: leetcode/medianSlidingWindow.cpp.obj
+
+.PHONY : leetcode/medianSlidingWindow.obj
+
+# target to build an object file
+leetcode/medianSlidingWindow.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj
+.PHONY : leetcode/medianSlidingWindow.cpp.obj
+
+leetcode/medianSlidingWindow.i: leetcode/medianSlidingWindow.cpp.i
+
+.PHONY : leetcode/medianSlidingWindow.i
+
+# target to preprocess a source file
+leetcode/medianSlidingWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.i
+.PHONY : leetcode/medianSlidingWindow.cpp.i
+
+leetcode/medianSlidingWindow.s: leetcode/medianSlidingWindow.cpp.s
+
+.PHONY : leetcode/medianSlidingWindow.s
+
+# target to generate assembly for a file
+leetcode/medianSlidingWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.s
+.PHONY : leetcode/medianSlidingWindow.cpp.s
+
 leetcode/minWindow.obj: leetcode/minWindow.cpp.obj
 
 .PHONY : leetcode/minWindow.obj
@@ -400,6 +481,9 @@ help:
 	@echo ... leetcode/characterReplacement.obj
 	@echo ... leetcode/characterReplacement.i
 	@echo ... leetcode/characterReplacement.s
+	@echo ... leetcode/checkInclusion.obj
+	@echo ... leetcode/checkInclusion.i
+	@echo ... leetcode/checkInclusion.s
 	@echo ... leetcode/lengthOfLongestSubstring.obj
 	@echo ... leetcode/lengthOfLongestSubstring.i
 	@echo ... leetcode/lengthOfLongestSubstring.s
@@ -415,6 +499,12 @@ help:
 	@echo ... leetcode/maxSlidingWindow.obj
 	@echo ... leetcode/maxSlidingWindow.i
 	@echo ... leetcode/maxSlidingWindow.s
+	@echo ... leetcode/maxTurbulenceSize.obj
+	@echo ... leetcode/maxTurbulenceSize.i
+	@echo ... leetcode/maxTurbulenceSize.s
+	@echo ... leetcode/medianSlidingWindow.obj
+	@echo ... leetcode/medianSlidingWindow.i
+	@echo ... leetcode/medianSlidingWindow.s
 	@echo ... leetcode/minWindow.obj
 	@echo ... leetcode/minWindow.i
 	@echo ... leetcode/minWindow.s

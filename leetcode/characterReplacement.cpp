@@ -26,7 +26,7 @@ public:
     }
 };
 
-int main(){
+int test_characterReplacement(){
     Solution solution;
 
     cout << solution.characterReplacement("ABAB", 2) << endl;
