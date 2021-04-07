@@ -81,4 +81,5 @@ int test_maxTurbulenceSize(){
     arr3.push_back(100);
     cout << solution.maxTurbulenceSize(arr3) << endl;
 
+    return 0;
 }
