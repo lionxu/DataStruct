@@ -18,4 +18,7 @@ add_executable(DataStruct
         leetcode/characterReplacement.cpp
         leetcode/medianSlidingWindow.cpp
         leetcode/checkInclusion.cpp
-        leetcode/maxTurbulenceSize.cpp)
+        leetcode/maxTurbulenceSize.cpp
+        leetcode/minKBitFlips.cpp
+        leetcode/longestOnes.cpp
+        leetcode/numMovesStonesII.cpp)

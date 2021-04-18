@@ -104,6 +104,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstringTwoDistinct.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/longestOnes.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/longestSubstring.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -116,7 +119,13 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/medianSlidingWindow.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/minKBitFlips.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/minWindow.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/numMovesStonesII.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/subarraysWithKDistinct.cpp">

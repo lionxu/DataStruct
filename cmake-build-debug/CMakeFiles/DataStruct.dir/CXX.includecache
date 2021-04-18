@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/maxTurbulenceSize.cpp
+D:/CLionProjects/DataStruct/leetcode/numMovesStonesII.cpp
 iostream
 -
 vector
+-
+algorithm
 -
 
