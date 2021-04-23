@@ -21,4 +21,9 @@ add_executable(DataStruct
         leetcode/maxTurbulenceSize.cpp
         leetcode/minKBitFlips.cpp
         leetcode/longestOnes.cpp
-        leetcode/numMovesStonesII.cpp)
+        leetcode/numMovesStonesII.cpp
+        leetcode/maxSatisfied.cpp
+        leetcode/numSubmatrixSumTarget.cpp
+        leetcode/equalSubstring.cpp
+        leetcode/maxScore.cpp
+        leetcode/longestSubarray.cpp)

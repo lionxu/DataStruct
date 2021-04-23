@@ -57,10 +57,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "D:\Program Files\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "D:\Program Files\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -77,7 +77,7 @@ CMAKE_BINARY_DIR = D:\CLionProjects\DataStruct\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"D:\Program Files\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -88,7 +88,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"D:\Program Files\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -222,6 +222,33 @@ leetcode/checkInclusion.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.s
 .PHONY : leetcode/checkInclusion.cpp.s
 
+leetcode/equalSubstring.obj: leetcode/equalSubstring.cpp.obj
+
+.PHONY : leetcode/equalSubstring.obj
+
+# target to build an object file
+leetcode/equalSubstring.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj
+.PHONY : leetcode/equalSubstring.cpp.obj
+
+leetcode/equalSubstring.i: leetcode/equalSubstring.cpp.i
+
+.PHONY : leetcode/equalSubstring.i
+
+# target to preprocess a source file
+leetcode/equalSubstring.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.i
+.PHONY : leetcode/equalSubstring.cpp.i
+
+leetcode/equalSubstring.s: leetcode/equalSubstring.cpp.s
+
+.PHONY : leetcode/equalSubstring.s
+
+# target to generate assembly for a file
+leetcode/equalSubstring.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.s
+.PHONY : leetcode/equalSubstring.cpp.s
+
 leetcode/lengthOfLongestSubstring.obj: leetcode/lengthOfLongestSubstring.cpp.obj
 
 .PHONY : leetcode/lengthOfLongestSubstring.obj
@@ -330,6 +357,33 @@ leetcode/longestOnes.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/longestOnes.cpp.s
 .PHONY : leetcode/longestOnes.cpp.s
 
+leetcode/longestSubarray.obj: leetcode/longestSubarray.cpp.obj
+
+.PHONY : leetcode/longestSubarray.obj
+
+# target to build an object file
+leetcode/longestSubarray.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.obj
+.PHONY : leetcode/longestSubarray.cpp.obj
+
+leetcode/longestSubarray.i: leetcode/longestSubarray.cpp.i
+
+.PHONY : leetcode/longestSubarray.i
+
+# target to preprocess a source file
+leetcode/longestSubarray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.i
+.PHONY : leetcode/longestSubarray.cpp.i
+
+leetcode/longestSubarray.s: leetcode/longestSubarray.cpp.s
+
+.PHONY : leetcode/longestSubarray.s
+
+# target to generate assembly for a file
+leetcode/longestSubarray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.s
+.PHONY : leetcode/longestSubarray.cpp.s
+
 leetcode/longestSubstring.obj: leetcode/longestSubstring.cpp.obj
 
 .PHONY : leetcode/longestSubstring.obj
@@ -356,6 +410,60 @@ leetcode/longestSubstring.s: leetcode/longestSubstring.cpp.s
 leetcode/longestSubstring.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/longestSubstring.cpp.s
 .PHONY : leetcode/longestSubstring.cpp.s
+
+leetcode/maxSatisfied.obj: leetcode/maxSatisfied.cpp.obj
+
+.PHONY : leetcode/maxSatisfied.obj
+
+# target to build an object file
+leetcode/maxSatisfied.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxSatisfied.cpp.obj
+.PHONY : leetcode/maxSatisfied.cpp.obj
+
+leetcode/maxSatisfied.i: leetcode/maxSatisfied.cpp.i
+
+.PHONY : leetcode/maxSatisfied.i
+
+# target to preprocess a source file
+leetcode/maxSatisfied.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxSatisfied.cpp.i
+.PHONY : leetcode/maxSatisfied.cpp.i
+
+leetcode/maxSatisfied.s: leetcode/maxSatisfied.cpp.s
+
+.PHONY : leetcode/maxSatisfied.s
+
+# target to generate assembly for a file
+leetcode/maxSatisfied.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxSatisfied.cpp.s
+.PHONY : leetcode/maxSatisfied.cpp.s
+
+leetcode/maxScore.obj: leetcode/maxScore.cpp.obj
+
+.PHONY : leetcode/maxScore.obj
+
+# target to build an object file
+leetcode/maxScore.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.obj
+.PHONY : leetcode/maxScore.cpp.obj
+
+leetcode/maxScore.i: leetcode/maxScore.cpp.i
+
+.PHONY : leetcode/maxScore.i
+
+# target to preprocess a source file
+leetcode/maxScore.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.i
+.PHONY : leetcode/maxScore.cpp.i
+
+leetcode/maxScore.s: leetcode/maxScore.cpp.s
+
+.PHONY : leetcode/maxScore.s
+
+# target to generate assembly for a file
+leetcode/maxScore.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.s
+.PHONY : leetcode/maxScore.cpp.s
 
 leetcode/maxSlidingWindow.obj: leetcode/maxSlidingWindow.cpp.obj
 
@@ -519,6 +627,33 @@ leetcode/numMovesStonesII.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numMovesStonesII.cpp.s
 .PHONY : leetcode/numMovesStonesII.cpp.s
 
+leetcode/numSubmatrixSumTarget.obj: leetcode/numSubmatrixSumTarget.cpp.obj
+
+.PHONY : leetcode/numSubmatrixSumTarget.obj
+
+# target to build an object file
+leetcode/numSubmatrixSumTarget.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj
+.PHONY : leetcode/numSubmatrixSumTarget.cpp.obj
+
+leetcode/numSubmatrixSumTarget.i: leetcode/numSubmatrixSumTarget.cpp.i
+
+.PHONY : leetcode/numSubmatrixSumTarget.i
+
+# target to preprocess a source file
+leetcode/numSubmatrixSumTarget.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.i
+.PHONY : leetcode/numSubmatrixSumTarget.cpp.i
+
+leetcode/numSubmatrixSumTarget.s: leetcode/numSubmatrixSumTarget.cpp.s
+
+.PHONY : leetcode/numSubmatrixSumTarget.s
+
+# target to generate assembly for a file
+leetcode/numSubmatrixSumTarget.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.s
+.PHONY : leetcode/numSubmatrixSumTarget.cpp.s
+
 leetcode/subarraysWithKDistinct.obj: leetcode/subarraysWithKDistinct.cpp.obj
 
 .PHONY : leetcode/subarraysWithKDistinct.obj
@@ -564,6 +699,9 @@ help:
 	@echo ... leetcode/checkInclusion.obj
 	@echo ... leetcode/checkInclusion.i
 	@echo ... leetcode/checkInclusion.s
+	@echo ... leetcode/equalSubstring.obj
+	@echo ... leetcode/equalSubstring.i
+	@echo ... leetcode/equalSubstring.s
 	@echo ... leetcode/lengthOfLongestSubstring.obj
 	@echo ... leetcode/lengthOfLongestSubstring.i
 	@echo ... leetcode/lengthOfLongestSubstring.s
@@ -576,9 +714,18 @@ help:
 	@echo ... leetcode/longestOnes.obj
 	@echo ... leetcode/longestOnes.i
 	@echo ... leetcode/longestOnes.s
+	@echo ... leetcode/longestSubarray.obj
+	@echo ... leetcode/longestSubarray.i
+	@echo ... leetcode/longestSubarray.s
 	@echo ... leetcode/longestSubstring.obj
 	@echo ... leetcode/longestSubstring.i
 	@echo ... leetcode/longestSubstring.s
+	@echo ... leetcode/maxSatisfied.obj
+	@echo ... leetcode/maxSatisfied.i
+	@echo ... leetcode/maxSatisfied.s
+	@echo ... leetcode/maxScore.obj
+	@echo ... leetcode/maxScore.i
+	@echo ... leetcode/maxScore.s
 	@echo ... leetcode/maxSlidingWindow.obj
 	@echo ... leetcode/maxSlidingWindow.i
 	@echo ... leetcode/maxSlidingWindow.s
@@ -597,6 +744,9 @@ help:
 	@echo ... leetcode/numMovesStonesII.obj
 	@echo ... leetcode/numMovesStonesII.i
 	@echo ... leetcode/numMovesStonesII.s
+	@echo ... leetcode/numSubmatrixSumTarget.obj
+	@echo ... leetcode/numSubmatrixSumTarget.i
+	@echo ... leetcode/numSubmatrixSumTarget.s
 	@echo ... leetcode/subarraysWithKDistinct.obj
 	@echo ... leetcode/subarraysWithKDistinct.i
 	@echo ... leetcode/subarraysWithKDistinct.s

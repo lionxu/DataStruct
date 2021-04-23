@@ -7,6 +7,8 @@ CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.obj: ../leetcode/cha
 
 CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj: ../leetcode/checkInclusion.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj: ../leetcode/equalSubstring.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj: ../leetcode/lengthOfLongestSubstring.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj: ../leetcode/lengthOfLongestSubstringKDistinct.cpp
@@ -15,7 +17,13 @@ CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringTwoDistinct.cpp.obj: 
 
 CMakeFiles/DataStruct.dir/leetcode/longestOnes.cpp.obj: ../leetcode/longestOnes.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.obj: ../leetcode/longestSubarray.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/longestSubstring.cpp.obj: ../leetcode/longestSubstring.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/maxSatisfied.cpp.obj: ../leetcode/maxSatisfied.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.obj: ../leetcode/maxScore.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/maxSlidingWindow.cpp.obj: ../leetcode/maxSlidingWindow.cpp
 
@@ -28,6 +36,8 @@ CMakeFiles/DataStruct.dir/leetcode/minKBitFlips.cpp.obj: ../leetcode/minKBitFlip
 CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.obj: ../leetcode/minWindow.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/numMovesStonesII.cpp.obj: ../leetcode/numMovesStonesII.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj: ../leetcode/numSubmatrixSumTarget.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj: ../leetcode/subarraysWithKDistinct.cpp
 
