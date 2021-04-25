@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/longestSubarray.cpp
+D:/CLionProjects/DataStruct/leetcode/maxVowels.cpp
+string
+-
 iostream
--
-vector
--
-set
 -
 

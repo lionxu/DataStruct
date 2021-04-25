@@ -28,6 +28,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLionProjects/DataStruct/leetcode/maxScore.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/maxSlidingWindow.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxSlidingWindow.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/maxTurbulenceSize.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/maxVowels.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/medianSlidingWindow.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/minKBitFlips.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/minKBitFlips.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/minWindow.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.obj"

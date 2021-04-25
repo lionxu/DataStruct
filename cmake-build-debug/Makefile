@@ -519,6 +519,33 @@ leetcode/maxTurbulenceSize.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.s
 .PHONY : leetcode/maxTurbulenceSize.cpp.s
 
+leetcode/maxVowels.obj: leetcode/maxVowels.cpp.obj
+
+.PHONY : leetcode/maxVowels.obj
+
+# target to build an object file
+leetcode/maxVowels.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj
+.PHONY : leetcode/maxVowels.cpp.obj
+
+leetcode/maxVowels.i: leetcode/maxVowels.cpp.i
+
+.PHONY : leetcode/maxVowels.i
+
+# target to preprocess a source file
+leetcode/maxVowels.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.i
+.PHONY : leetcode/maxVowels.cpp.i
+
+leetcode/maxVowels.s: leetcode/maxVowels.cpp.s
+
+.PHONY : leetcode/maxVowels.s
+
+# target to generate assembly for a file
+leetcode/maxVowels.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.s
+.PHONY : leetcode/maxVowels.cpp.s
+
 leetcode/medianSlidingWindow.obj: leetcode/medianSlidingWindow.cpp.obj
 
 .PHONY : leetcode/medianSlidingWindow.obj
@@ -732,6 +759,9 @@ help:
 	@echo ... leetcode/maxTurbulenceSize.obj
 	@echo ... leetcode/maxTurbulenceSize.i
 	@echo ... leetcode/maxTurbulenceSize.s
+	@echo ... leetcode/maxVowels.obj
+	@echo ... leetcode/maxVowels.i
+	@echo ... leetcode/maxVowels.s
 	@echo ... leetcode/medianSlidingWindow.obj
 	@echo ... leetcode/medianSlidingWindow.i
 	@echo ... leetcode/medianSlidingWindow.s

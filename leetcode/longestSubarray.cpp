@@ -23,7 +23,7 @@ public:
     }
 };
 
-int main() {
+int test_longestSubarray() {
     Solution solution;
 
     vector<int> nums1;

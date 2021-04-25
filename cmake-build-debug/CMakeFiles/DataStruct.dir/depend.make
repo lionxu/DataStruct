@@ -29,6 +29,8 @@ CMakeFiles/DataStruct.dir/leetcode/maxSlidingWindow.cpp.obj: ../leetcode/maxSlid
 
 CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj: ../leetcode/maxTurbulenceSize.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj: ../leetcode/maxVowels.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj: ../leetcode/medianSlidingWindow.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/minKBitFlips.cpp.obj: ../leetcode/minKBitFlips.cpp

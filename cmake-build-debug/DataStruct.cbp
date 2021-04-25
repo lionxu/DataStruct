@@ -126,6 +126,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/maxTurbulenceSize.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/maxVowels.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/medianSlidingWindow.cpp">
 			<Option target="DataStruct"/>
 		</Unit>

@@ -13,6 +13,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/maxSlidingWindow.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/maxTurbulenceSize.cpp.obj"
+  "CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/minKBitFlips.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.obj"
