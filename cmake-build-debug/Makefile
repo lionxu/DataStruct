@@ -249,6 +249,33 @@ leetcode/equalSubstring.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.s
 .PHONY : leetcode/equalSubstring.cpp.s
 
+leetcode/findMaxValueOfEquation.obj: leetcode/findMaxValueOfEquation.cpp.obj
+
+.PHONY : leetcode/findMaxValueOfEquation.obj
+
+# target to build an object file
+leetcode/findMaxValueOfEquation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj
+.PHONY : leetcode/findMaxValueOfEquation.cpp.obj
+
+leetcode/findMaxValueOfEquation.i: leetcode/findMaxValueOfEquation.cpp.i
+
+.PHONY : leetcode/findMaxValueOfEquation.i
+
+# target to preprocess a source file
+leetcode/findMaxValueOfEquation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.i
+.PHONY : leetcode/findMaxValueOfEquation.cpp.i
+
+leetcode/findMaxValueOfEquation.s: leetcode/findMaxValueOfEquation.cpp.s
+
+.PHONY : leetcode/findMaxValueOfEquation.s
+
+# target to generate assembly for a file
+leetcode/findMaxValueOfEquation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.s
+.PHONY : leetcode/findMaxValueOfEquation.cpp.s
+
 leetcode/lengthOfLongestSubstring.obj: leetcode/lengthOfLongestSubstring.cpp.obj
 
 .PHONY : leetcode/lengthOfLongestSubstring.obj
@@ -681,6 +708,33 @@ leetcode/numSubmatrixSumTarget.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.s
 .PHONY : leetcode/numSubmatrixSumTarget.cpp.s
 
+leetcode/numSubseq.obj: leetcode/numSubseq.cpp.obj
+
+.PHONY : leetcode/numSubseq.obj
+
+# target to build an object file
+leetcode/numSubseq.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj
+.PHONY : leetcode/numSubseq.cpp.obj
+
+leetcode/numSubseq.i: leetcode/numSubseq.cpp.i
+
+.PHONY : leetcode/numSubseq.i
+
+# target to preprocess a source file
+leetcode/numSubseq.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.i
+.PHONY : leetcode/numSubseq.cpp.i
+
+leetcode/numSubseq.s: leetcode/numSubseq.cpp.s
+
+.PHONY : leetcode/numSubseq.s
+
+# target to generate assembly for a file
+leetcode/numSubseq.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.s
+.PHONY : leetcode/numSubseq.cpp.s
+
 leetcode/subarraysWithKDistinct.obj: leetcode/subarraysWithKDistinct.cpp.obj
 
 .PHONY : leetcode/subarraysWithKDistinct.obj
@@ -729,6 +783,9 @@ help:
 	@echo ... leetcode/equalSubstring.obj
 	@echo ... leetcode/equalSubstring.i
 	@echo ... leetcode/equalSubstring.s
+	@echo ... leetcode/findMaxValueOfEquation.obj
+	@echo ... leetcode/findMaxValueOfEquation.i
+	@echo ... leetcode/findMaxValueOfEquation.s
 	@echo ... leetcode/lengthOfLongestSubstring.obj
 	@echo ... leetcode/lengthOfLongestSubstring.i
 	@echo ... leetcode/lengthOfLongestSubstring.s
@@ -777,6 +834,9 @@ help:
 	@echo ... leetcode/numSubmatrixSumTarget.obj
 	@echo ... leetcode/numSubmatrixSumTarget.i
 	@echo ... leetcode/numSubmatrixSumTarget.s
+	@echo ... leetcode/numSubseq.obj
+	@echo ... leetcode/numSubseq.i
+	@echo ... leetcode/numSubseq.s
 	@echo ... leetcode/subarraysWithKDistinct.obj
 	@echo ... leetcode/subarraysWithKDistinct.i
 	@echo ... leetcode/subarraysWithKDistinct.s

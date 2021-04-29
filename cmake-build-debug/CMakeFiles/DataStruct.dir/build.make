@@ -369,6 +369,34 @@ CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\maxVowels.cpp -o CMakeFiles\DataStruct.dir\leetcode\maxVowels.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj: ../leetcode/numSubseq.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\numSubseq.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\numSubseq.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\numSubseq.cpp > CMakeFiles\DataStruct.dir\leetcode\numSubseq.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\numSubseq.cpp -o CMakeFiles\DataStruct.dir\leetcode\numSubseq.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj: ../leetcode/findMaxValueOfEquation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\findMaxValueOfEquation.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\findMaxValueOfEquation.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\findMaxValueOfEquation.cpp > CMakeFiles\DataStruct.dir\leetcode\findMaxValueOfEquation.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\findMaxValueOfEquation.cpp -o CMakeFiles\DataStruct.dir\leetcode\findMaxValueOfEquation.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -391,7 +419,9 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -417,11 +447,13 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

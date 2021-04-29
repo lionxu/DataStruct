@@ -27,4 +27,6 @@ add_executable(DataStruct
         leetcode/equalSubstring.cpp
         leetcode/maxScore.cpp
         leetcode/longestSubarray.cpp
-        leetcode/maxVowels.cpp)
+        leetcode/maxVowels.cpp
+        leetcode/numSubseq.cpp
+        leetcode/findMaxValueOfEquation.cpp)

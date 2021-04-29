@@ -9,6 +9,8 @@ CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj: ../leetcode/checkIncl
 
 CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj: ../leetcode/equalSubstring.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj: ../leetcode/findMaxValueOfEquation.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj: ../leetcode/lengthOfLongestSubstring.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj: ../leetcode/lengthOfLongestSubstringKDistinct.cpp
@@ -40,6 +42,8 @@ CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.obj: ../leetcode/minWindow.cpp
 CMakeFiles/DataStruct.dir/leetcode/numMovesStonesII.cpp.obj: ../leetcode/numMovesStonesII.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj: ../leetcode/numSubmatrixSumTarget.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj: ../leetcode/numSubseq.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj: ../leetcode/subarraysWithKDistinct.cpp
 

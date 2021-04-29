@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/maxVowels.cpp
-string
--
+D:/CLionProjects/DataStruct/leetcode/findMaxValueOfEquation.cpp
 iostream
+-
+vector
 -
 
