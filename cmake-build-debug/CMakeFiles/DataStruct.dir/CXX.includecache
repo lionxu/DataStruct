@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/findMaxValueOfEquation.cpp
+D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp
 iostream
 -
 vector
+-
+unordered_map
 -
 

@@ -87,6 +87,12 @@
 		<Unit filename="D:/CLionProjects/DataStruct/hello.c">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/MaxQueue.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/MaxQueue.h">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/characterReplacement.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -138,6 +144,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/minKBitFlips.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/minOperations.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/minWindow.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -148,6 +157,9 @@
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/numSubseq.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/subarraysWithKDistinct.cpp">

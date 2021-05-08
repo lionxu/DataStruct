@@ -168,6 +168,33 @@ hello.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/hello.c.s
 .PHONY : hello.c.s
 
+leetcode/MaxQueue.obj: leetcode/MaxQueue.cpp.obj
+
+.PHONY : leetcode/MaxQueue.obj
+
+# target to build an object file
+leetcode/MaxQueue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj
+.PHONY : leetcode/MaxQueue.cpp.obj
+
+leetcode/MaxQueue.i: leetcode/MaxQueue.cpp.i
+
+.PHONY : leetcode/MaxQueue.i
+
+# target to preprocess a source file
+leetcode/MaxQueue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.i
+.PHONY : leetcode/MaxQueue.cpp.i
+
+leetcode/MaxQueue.s: leetcode/MaxQueue.cpp.s
+
+.PHONY : leetcode/MaxQueue.s
+
+# target to generate assembly for a file
+leetcode/MaxQueue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.s
+.PHONY : leetcode/MaxQueue.cpp.s
+
 leetcode/characterReplacement.obj: leetcode/characterReplacement.cpp.obj
 
 .PHONY : leetcode/characterReplacement.obj
@@ -627,6 +654,33 @@ leetcode/minKBitFlips.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/minKBitFlips.cpp.s
 .PHONY : leetcode/minKBitFlips.cpp.s
 
+leetcode/minOperations.obj: leetcode/minOperations.cpp.obj
+
+.PHONY : leetcode/minOperations.obj
+
+# target to build an object file
+leetcode/minOperations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj
+.PHONY : leetcode/minOperations.cpp.obj
+
+leetcode/minOperations.i: leetcode/minOperations.cpp.i
+
+.PHONY : leetcode/minOperations.i
+
+# target to preprocess a source file
+leetcode/minOperations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.i
+.PHONY : leetcode/minOperations.cpp.i
+
+leetcode/minOperations.s: leetcode/minOperations.cpp.s
+
+.PHONY : leetcode/minOperations.s
+
+# target to generate assembly for a file
+leetcode/minOperations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.s
+.PHONY : leetcode/minOperations.cpp.s
+
 leetcode/minWindow.obj: leetcode/minWindow.cpp.obj
 
 .PHONY : leetcode/minWindow.obj
@@ -735,6 +789,33 @@ leetcode/numSubseq.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.s
 .PHONY : leetcode/numSubseq.cpp.s
 
+leetcode/shortestSeq.obj: leetcode/shortestSeq.cpp.obj
+
+.PHONY : leetcode/shortestSeq.obj
+
+# target to build an object file
+leetcode/shortestSeq.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj
+.PHONY : leetcode/shortestSeq.cpp.obj
+
+leetcode/shortestSeq.i: leetcode/shortestSeq.cpp.i
+
+.PHONY : leetcode/shortestSeq.i
+
+# target to preprocess a source file
+leetcode/shortestSeq.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.i
+.PHONY : leetcode/shortestSeq.cpp.i
+
+leetcode/shortestSeq.s: leetcode/shortestSeq.cpp.s
+
+.PHONY : leetcode/shortestSeq.s
+
+# target to generate assembly for a file
+leetcode/shortestSeq.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.s
+.PHONY : leetcode/shortestSeq.cpp.s
+
 leetcode/subarraysWithKDistinct.obj: leetcode/subarraysWithKDistinct.cpp.obj
 
 .PHONY : leetcode/subarraysWithKDistinct.obj
@@ -774,6 +855,9 @@ help:
 	@echo ... hello.obj
 	@echo ... hello.i
 	@echo ... hello.s
+	@echo ... leetcode/MaxQueue.obj
+	@echo ... leetcode/MaxQueue.i
+	@echo ... leetcode/MaxQueue.s
 	@echo ... leetcode/characterReplacement.obj
 	@echo ... leetcode/characterReplacement.i
 	@echo ... leetcode/characterReplacement.s
@@ -825,6 +909,9 @@ help:
 	@echo ... leetcode/minKBitFlips.obj
 	@echo ... leetcode/minKBitFlips.i
 	@echo ... leetcode/minKBitFlips.s
+	@echo ... leetcode/minOperations.obj
+	@echo ... leetcode/minOperations.i
+	@echo ... leetcode/minOperations.s
 	@echo ... leetcode/minWindow.obj
 	@echo ... leetcode/minWindow.i
 	@echo ... leetcode/minWindow.s
@@ -837,6 +924,9 @@ help:
 	@echo ... leetcode/numSubseq.obj
 	@echo ... leetcode/numSubseq.i
 	@echo ... leetcode/numSubseq.s
+	@echo ... leetcode/shortestSeq.obj
+	@echo ... leetcode/shortestSeq.i
+	@echo ... leetcode/shortestSeq.s
 	@echo ... leetcode/subarraysWithKDistinct.obj
 	@echo ... leetcode/subarraysWithKDistinct.i
 	@echo ... leetcode/subarraysWithKDistinct.s

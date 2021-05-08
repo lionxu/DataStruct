@@ -29,4 +29,7 @@ add_executable(DataStruct
         leetcode/longestSubarray.cpp
         leetcode/maxVowels.cpp
         leetcode/numSubseq.cpp
-        leetcode/findMaxValueOfEquation.cpp)
+        leetcode/findMaxValueOfEquation.cpp
+        leetcode/minOperations.cpp
+        leetcode/MaxQueue.cpp
+        leetcode/MaxQueue.h leetcode/shortestSeq.cpp)

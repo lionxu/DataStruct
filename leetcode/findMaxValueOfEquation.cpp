@@ -34,7 +34,7 @@ public:
     }
 };
 
-int main() {
+int test_findMaxValueOfEquation() {
 
     Solution solution;
 

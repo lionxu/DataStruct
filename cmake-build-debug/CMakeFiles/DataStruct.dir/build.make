@@ -397,6 +397,48 @@ CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\findMaxValueOfEquation.cpp -o CMakeFiles\DataStruct.dir\leetcode\findMaxValueOfEquation.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj: ../leetcode/minOperations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\minOperations.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\minOperations.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\minOperations.cpp > CMakeFiles\DataStruct.dir\leetcode\minOperations.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\minOperations.cpp -o CMakeFiles\DataStruct.dir\leetcode\minOperations.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj: ../leetcode/MaxQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\MaxQueue.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\MaxQueue.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\MaxQueue.cpp > CMakeFiles\DataStruct.dir\leetcode\MaxQueue.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\MaxQueue.cpp -o CMakeFiles\DataStruct.dir\leetcode\MaxQueue.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj: ../leetcode/shortestSeq.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\shortestSeq.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\shortestSeq.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\shortestSeq.cpp > CMakeFiles\DataStruct.dir\leetcode\shortestSeq.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\shortestSeq.cpp -o CMakeFiles\DataStruct.dir\leetcode\shortestSeq.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -421,7 +463,10 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -449,11 +494,14 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

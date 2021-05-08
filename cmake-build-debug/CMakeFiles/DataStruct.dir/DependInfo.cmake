@@ -15,6 +15,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../leetcode"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/CLionProjects/DataStruct/leetcode/MaxQueue.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/characterReplacement.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/checkInclusion.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/equalSubstring.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj"
@@ -32,10 +33,12 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLionProjects/DataStruct/leetcode/maxVowels.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/medianSlidingWindow.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/minKBitFlips.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/minKBitFlips.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/minOperations.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/minWindow.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/numMovesStonesII.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/numMovesStonesII.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/numSubmatrixSumTarget.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/numSubseq.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/subarraysWithKDistinct.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
