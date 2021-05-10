@@ -14,6 +14,8 @@ CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj: ../leetcode/equalSubs
 
 CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj: ../leetcode/findMaxValueOfEquation.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj: ../leetcode/getKthFromEnd.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj: ../leetcode/lengthOfLongestSubstring.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj: ../leetcode/lengthOfLongestSubstringKDistinct.cpp

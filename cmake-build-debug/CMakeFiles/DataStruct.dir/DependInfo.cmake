@@ -20,6 +20,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLionProjects/DataStruct/leetcode/checkInclusion.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/equalSubstring.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/findMaxValueOfEquation.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/getKthFromEnd.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstring.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstringKDistinct.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstringTwoDistinct.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringTwoDistinct.cpp.obj"

@@ -32,4 +32,5 @@ add_executable(DataStruct
         leetcode/findMaxValueOfEquation.cpp
         leetcode/minOperations.cpp
         leetcode/MaxQueue.cpp
-        leetcode/MaxQueue.h leetcode/shortestSeq.cpp)
+        leetcode/MaxQueue.h leetcode/shortestSeq.cpp
+        leetcode/getKthFromEnd.cpp)

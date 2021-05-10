@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp
+D:/CLionProjects/DataStruct/leetcode/getKthFromEnd.cpp
 iostream
--
-vector
--
-unordered_map
 -
 

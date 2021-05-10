@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj"
+  "CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj"
   "CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringTwoDistinct.cpp.obj"

@@ -105,6 +105,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/findMaxValueOfEquation.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/getKthFromEnd.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstring.cpp">
 			<Option target="DataStruct"/>
 		</Unit>

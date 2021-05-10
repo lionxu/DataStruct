@@ -303,6 +303,33 @@ leetcode/findMaxValueOfEquation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.s
 .PHONY : leetcode/findMaxValueOfEquation.cpp.s
 
+leetcode/getKthFromEnd.obj: leetcode/getKthFromEnd.cpp.obj
+
+.PHONY : leetcode/getKthFromEnd.obj
+
+# target to build an object file
+leetcode/getKthFromEnd.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj
+.PHONY : leetcode/getKthFromEnd.cpp.obj
+
+leetcode/getKthFromEnd.i: leetcode/getKthFromEnd.cpp.i
+
+.PHONY : leetcode/getKthFromEnd.i
+
+# target to preprocess a source file
+leetcode/getKthFromEnd.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.i
+.PHONY : leetcode/getKthFromEnd.cpp.i
+
+leetcode/getKthFromEnd.s: leetcode/getKthFromEnd.cpp.s
+
+.PHONY : leetcode/getKthFromEnd.s
+
+# target to generate assembly for a file
+leetcode/getKthFromEnd.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.s
+.PHONY : leetcode/getKthFromEnd.cpp.s
+
 leetcode/lengthOfLongestSubstring.obj: leetcode/lengthOfLongestSubstring.cpp.obj
 
 .PHONY : leetcode/lengthOfLongestSubstring.obj
@@ -870,6 +897,9 @@ help:
 	@echo ... leetcode/findMaxValueOfEquation.obj
 	@echo ... leetcode/findMaxValueOfEquation.i
 	@echo ... leetcode/findMaxValueOfEquation.s
+	@echo ... leetcode/getKthFromEnd.obj
+	@echo ... leetcode/getKthFromEnd.i
+	@echo ... leetcode/getKthFromEnd.s
 	@echo ... leetcode/lengthOfLongestSubstring.obj
 	@echo ... leetcode/lengthOfLongestSubstring.i
 	@echo ... leetcode/lengthOfLongestSubstring.s
