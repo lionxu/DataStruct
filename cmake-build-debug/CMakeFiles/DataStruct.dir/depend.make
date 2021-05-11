@@ -16,6 +16,10 @@ CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj: ../leetcode/f
 
 CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj: ../leetcode/getKthFromEnd.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj: ../leetcode/intersection.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj: ../leetcode/kthToLast.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj: ../leetcode/lengthOfLongestSubstring.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj: ../leetcode/lengthOfLongestSubstringKDistinct.cpp
@@ -51,6 +55,8 @@ CMakeFiles/DataStruct.dir/leetcode/numMovesStonesII.cpp.obj: ../leetcode/numMove
 CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj: ../leetcode/numSubmatrixSumTarget.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj: ../leetcode/numSubseq.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj: ../leetcode/reverseString.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj: ../leetcode/shortestSeq.cpp
 

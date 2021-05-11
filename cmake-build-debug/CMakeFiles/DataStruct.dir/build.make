@@ -453,6 +453,48 @@ CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\getKthFromEnd.cpp -o CMakeFiles\DataStruct.dir\leetcode\getKthFromEnd.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj: ../leetcode/kthToLast.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\kthToLast.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\kthToLast.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\kthToLast.cpp > CMakeFiles\DataStruct.dir\leetcode\kthToLast.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\kthToLast.cpp -o CMakeFiles\DataStruct.dir\leetcode\kthToLast.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj: ../leetcode/reverseString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\reverseString.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\reverseString.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\reverseString.cpp > CMakeFiles\DataStruct.dir\leetcode\reverseString.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\reverseString.cpp -o CMakeFiles\DataStruct.dir\leetcode\reverseString.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj: ../leetcode/intersection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\intersection.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\intersection.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\intersection.cpp > CMakeFiles\DataStruct.dir\leetcode\intersection.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\intersection.cpp -o CMakeFiles\DataStruct.dir\leetcode\intersection.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -481,7 +523,10 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -513,11 +558,14 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/getKthFromEnd.cpp
+D:/CLionProjects/DataStruct/leetcode/intersection.cpp
 iostream
+-
+vector
+-
+algorithm
 -
 

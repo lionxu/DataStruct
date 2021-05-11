@@ -33,4 +33,4 @@ add_executable(DataStruct
         leetcode/minOperations.cpp
         leetcode/MaxQueue.cpp
         leetcode/MaxQueue.h leetcode/shortestSeq.cpp
-        leetcode/getKthFromEnd.cpp)
+        leetcode/getKthFromEnd.cpp leetcode/kthToLast.cpp leetcode/reverseString.cpp leetcode/intersection.cpp)

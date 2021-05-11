@@ -28,7 +28,7 @@ public:
     }
 };
 
-int main() {
+int test_getKthFromEnd() {
     ListNode node1(1);
     ListNode node2(2);
     node1.next = &node2;

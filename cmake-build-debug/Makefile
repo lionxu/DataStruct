@@ -330,6 +330,60 @@ leetcode/getKthFromEnd.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.s
 .PHONY : leetcode/getKthFromEnd.cpp.s
 
+leetcode/intersection.obj: leetcode/intersection.cpp.obj
+
+.PHONY : leetcode/intersection.obj
+
+# target to build an object file
+leetcode/intersection.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj
+.PHONY : leetcode/intersection.cpp.obj
+
+leetcode/intersection.i: leetcode/intersection.cpp.i
+
+.PHONY : leetcode/intersection.i
+
+# target to preprocess a source file
+leetcode/intersection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.i
+.PHONY : leetcode/intersection.cpp.i
+
+leetcode/intersection.s: leetcode/intersection.cpp.s
+
+.PHONY : leetcode/intersection.s
+
+# target to generate assembly for a file
+leetcode/intersection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.s
+.PHONY : leetcode/intersection.cpp.s
+
+leetcode/kthToLast.obj: leetcode/kthToLast.cpp.obj
+
+.PHONY : leetcode/kthToLast.obj
+
+# target to build an object file
+leetcode/kthToLast.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj
+.PHONY : leetcode/kthToLast.cpp.obj
+
+leetcode/kthToLast.i: leetcode/kthToLast.cpp.i
+
+.PHONY : leetcode/kthToLast.i
+
+# target to preprocess a source file
+leetcode/kthToLast.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.i
+.PHONY : leetcode/kthToLast.cpp.i
+
+leetcode/kthToLast.s: leetcode/kthToLast.cpp.s
+
+.PHONY : leetcode/kthToLast.s
+
+# target to generate assembly for a file
+leetcode/kthToLast.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.s
+.PHONY : leetcode/kthToLast.cpp.s
+
 leetcode/lengthOfLongestSubstring.obj: leetcode/lengthOfLongestSubstring.cpp.obj
 
 .PHONY : leetcode/lengthOfLongestSubstring.obj
@@ -816,6 +870,33 @@ leetcode/numSubseq.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.s
 .PHONY : leetcode/numSubseq.cpp.s
 
+leetcode/reverseString.obj: leetcode/reverseString.cpp.obj
+
+.PHONY : leetcode/reverseString.obj
+
+# target to build an object file
+leetcode/reverseString.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj
+.PHONY : leetcode/reverseString.cpp.obj
+
+leetcode/reverseString.i: leetcode/reverseString.cpp.i
+
+.PHONY : leetcode/reverseString.i
+
+# target to preprocess a source file
+leetcode/reverseString.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.i
+.PHONY : leetcode/reverseString.cpp.i
+
+leetcode/reverseString.s: leetcode/reverseString.cpp.s
+
+.PHONY : leetcode/reverseString.s
+
+# target to generate assembly for a file
+leetcode/reverseString.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.s
+.PHONY : leetcode/reverseString.cpp.s
+
 leetcode/shortestSeq.obj: leetcode/shortestSeq.cpp.obj
 
 .PHONY : leetcode/shortestSeq.obj
@@ -900,6 +981,12 @@ help:
 	@echo ... leetcode/getKthFromEnd.obj
 	@echo ... leetcode/getKthFromEnd.i
 	@echo ... leetcode/getKthFromEnd.s
+	@echo ... leetcode/intersection.obj
+	@echo ... leetcode/intersection.i
+	@echo ... leetcode/intersection.s
+	@echo ... leetcode/kthToLast.obj
+	@echo ... leetcode/kthToLast.i
+	@echo ... leetcode/kthToLast.s
 	@echo ... leetcode/lengthOfLongestSubstring.obj
 	@echo ... leetcode/lengthOfLongestSubstring.i
 	@echo ... leetcode/lengthOfLongestSubstring.s
@@ -954,6 +1041,9 @@ help:
 	@echo ... leetcode/numSubseq.obj
 	@echo ... leetcode/numSubseq.i
 	@echo ... leetcode/numSubseq.s
+	@echo ... leetcode/reverseString.obj
+	@echo ... leetcode/reverseString.i
+	@echo ... leetcode/reverseString.s
 	@echo ... leetcode/shortestSeq.obj
 	@echo ... leetcode/shortestSeq.i
 	@echo ... leetcode/shortestSeq.s

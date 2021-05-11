@@ -16,6 +16,10 @@ CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/findMaxValueOfEquation.cpp
 CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/getKthFromEnd.cpp
+CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/intersection.cpp
+CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/kthToLast.cpp
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstring.cpp
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj
@@ -52,6 +56,8 @@ CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/numSubmatrixSumTarget.cpp
 CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/numSubseq.cpp
+CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/reverseString.cpp
 CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp
 CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj
