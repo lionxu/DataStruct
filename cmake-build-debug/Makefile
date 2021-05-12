@@ -546,6 +546,33 @@ leetcode/longestSubstring.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/longestSubstring.cpp.s
 .PHONY : leetcode/longestSubstring.cpp.s
 
+leetcode/maxAscendingSum.obj: leetcode/maxAscendingSum.cpp.obj
+
+.PHONY : leetcode/maxAscendingSum.obj
+
+# target to build an object file
+leetcode/maxAscendingSum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxAscendingSum.cpp.obj
+.PHONY : leetcode/maxAscendingSum.cpp.obj
+
+leetcode/maxAscendingSum.i: leetcode/maxAscendingSum.cpp.i
+
+.PHONY : leetcode/maxAscendingSum.i
+
+# target to preprocess a source file
+leetcode/maxAscendingSum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxAscendingSum.cpp.i
+.PHONY : leetcode/maxAscendingSum.cpp.i
+
+leetcode/maxAscendingSum.s: leetcode/maxAscendingSum.cpp.s
+
+.PHONY : leetcode/maxAscendingSum.s
+
+# target to generate assembly for a file
+leetcode/maxAscendingSum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/maxAscendingSum.cpp.s
+.PHONY : leetcode/maxAscendingSum.cpp.s
+
 leetcode/maxSatisfied.obj: leetcode/maxSatisfied.cpp.obj
 
 .PHONY : leetcode/maxSatisfied.obj
@@ -789,6 +816,33 @@ leetcode/minWindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.s
 .PHONY : leetcode/minWindow.cpp.s
 
+leetcode/moveZeroes.obj: leetcode/moveZeroes.cpp.obj
+
+.PHONY : leetcode/moveZeroes.obj
+
+# target to build an object file
+leetcode/moveZeroes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/moveZeroes.cpp.obj
+.PHONY : leetcode/moveZeroes.cpp.obj
+
+leetcode/moveZeroes.i: leetcode/moveZeroes.cpp.i
+
+.PHONY : leetcode/moveZeroes.i
+
+# target to preprocess a source file
+leetcode/moveZeroes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/moveZeroes.cpp.i
+.PHONY : leetcode/moveZeroes.cpp.i
+
+leetcode/moveZeroes.s: leetcode/moveZeroes.cpp.s
+
+.PHONY : leetcode/moveZeroes.s
+
+# target to generate assembly for a file
+leetcode/moveZeroes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/moveZeroes.cpp.s
+.PHONY : leetcode/moveZeroes.cpp.s
+
 leetcode/numMovesStonesII.obj: leetcode/numMovesStonesII.cpp.obj
 
 .PHONY : leetcode/numMovesStonesII.obj
@@ -870,6 +924,33 @@ leetcode/numSubseq.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.s
 .PHONY : leetcode/numSubseq.cpp.s
 
+leetcode/removeElement.obj: leetcode/removeElement.cpp.obj
+
+.PHONY : leetcode/removeElement.obj
+
+# target to build an object file
+leetcode/removeElement.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.obj
+.PHONY : leetcode/removeElement.cpp.obj
+
+leetcode/removeElement.i: leetcode/removeElement.cpp.i
+
+.PHONY : leetcode/removeElement.i
+
+# target to preprocess a source file
+leetcode/removeElement.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.i
+.PHONY : leetcode/removeElement.cpp.i
+
+leetcode/removeElement.s: leetcode/removeElement.cpp.s
+
+.PHONY : leetcode/removeElement.s
+
+# target to generate assembly for a file
+leetcode/removeElement.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.s
+.PHONY : leetcode/removeElement.cpp.s
+
 leetcode/reverseString.obj: leetcode/reverseString.cpp.obj
 
 .PHONY : leetcode/reverseString.obj
@@ -924,6 +1005,33 @@ leetcode/shortestSeq.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.s
 .PHONY : leetcode/shortestSeq.cpp.s
 
+leetcode/sortedSquares.obj: leetcode/sortedSquares.cpp.obj
+
+.PHONY : leetcode/sortedSquares.obj
+
+# target to build an object file
+leetcode/sortedSquares.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/sortedSquares.cpp.obj
+.PHONY : leetcode/sortedSquares.cpp.obj
+
+leetcode/sortedSquares.i: leetcode/sortedSquares.cpp.i
+
+.PHONY : leetcode/sortedSquares.i
+
+# target to preprocess a source file
+leetcode/sortedSquares.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/sortedSquares.cpp.i
+.PHONY : leetcode/sortedSquares.cpp.i
+
+leetcode/sortedSquares.s: leetcode/sortedSquares.cpp.s
+
+.PHONY : leetcode/sortedSquares.s
+
+# target to generate assembly for a file
+leetcode/sortedSquares.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/sortedSquares.cpp.s
+.PHONY : leetcode/sortedSquares.cpp.s
+
 leetcode/subarraysWithKDistinct.obj: leetcode/subarraysWithKDistinct.cpp.obj
 
 .PHONY : leetcode/subarraysWithKDistinct.obj
@@ -950,6 +1058,33 @@ leetcode/subarraysWithKDistinct.s: leetcode/subarraysWithKDistinct.cpp.s
 leetcode/subarraysWithKDistinct.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.s
 .PHONY : leetcode/subarraysWithKDistinct.cpp.s
+
+leetcode/twoSum.obj: leetcode/twoSum.cpp.obj
+
+.PHONY : leetcode/twoSum.obj
+
+# target to build an object file
+leetcode/twoSum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.obj
+.PHONY : leetcode/twoSum.cpp.obj
+
+leetcode/twoSum.i: leetcode/twoSum.cpp.i
+
+.PHONY : leetcode/twoSum.i
+
+# target to preprocess a source file
+leetcode/twoSum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.i
+.PHONY : leetcode/twoSum.cpp.i
+
+leetcode/twoSum.s: leetcode/twoSum.cpp.s
+
+.PHONY : leetcode/twoSum.s
+
+# target to generate assembly for a file
+leetcode/twoSum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.s
+.PHONY : leetcode/twoSum.cpp.s
 
 # Help Target
 help:
@@ -1005,6 +1140,9 @@ help:
 	@echo ... leetcode/longestSubstring.obj
 	@echo ... leetcode/longestSubstring.i
 	@echo ... leetcode/longestSubstring.s
+	@echo ... leetcode/maxAscendingSum.obj
+	@echo ... leetcode/maxAscendingSum.i
+	@echo ... leetcode/maxAscendingSum.s
 	@echo ... leetcode/maxSatisfied.obj
 	@echo ... leetcode/maxSatisfied.i
 	@echo ... leetcode/maxSatisfied.s
@@ -1032,6 +1170,9 @@ help:
 	@echo ... leetcode/minWindow.obj
 	@echo ... leetcode/minWindow.i
 	@echo ... leetcode/minWindow.s
+	@echo ... leetcode/moveZeroes.obj
+	@echo ... leetcode/moveZeroes.i
+	@echo ... leetcode/moveZeroes.s
 	@echo ... leetcode/numMovesStonesII.obj
 	@echo ... leetcode/numMovesStonesII.i
 	@echo ... leetcode/numMovesStonesII.s
@@ -1041,15 +1182,24 @@ help:
 	@echo ... leetcode/numSubseq.obj
 	@echo ... leetcode/numSubseq.i
 	@echo ... leetcode/numSubseq.s
+	@echo ... leetcode/removeElement.obj
+	@echo ... leetcode/removeElement.i
+	@echo ... leetcode/removeElement.s
 	@echo ... leetcode/reverseString.obj
 	@echo ... leetcode/reverseString.i
 	@echo ... leetcode/reverseString.s
 	@echo ... leetcode/shortestSeq.obj
 	@echo ... leetcode/shortestSeq.i
 	@echo ... leetcode/shortestSeq.s
+	@echo ... leetcode/sortedSquares.obj
+	@echo ... leetcode/sortedSquares.i
+	@echo ... leetcode/sortedSquares.s
 	@echo ... leetcode/subarraysWithKDistinct.obj
 	@echo ... leetcode/subarraysWithKDistinct.i
 	@echo ... leetcode/subarraysWithKDistinct.s
+	@echo ... leetcode/twoSum.obj
+	@echo ... leetcode/twoSum.i
+	@echo ... leetcode/twoSum.s
 .PHONY : help
 
 

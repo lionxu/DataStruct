@@ -29,6 +29,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLionProjects/DataStruct/leetcode/longestOnes.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/longestOnes.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/longestSubarray.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/longestSubstring.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/longestSubstring.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/maxAscendingSum.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxAscendingSum.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/maxSatisfied.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxSatisfied.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/maxScore.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/maxSlidingWindow.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/maxSlidingWindow.cpp.obj"
@@ -38,12 +39,16 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLionProjects/DataStruct/leetcode/minKBitFlips.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/minKBitFlips.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/minOperations.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/minWindow.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/moveZeroes.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/moveZeroes.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/numMovesStonesII.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/numMovesStonesII.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/numSubmatrixSumTarget.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/numSubseq.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/removeElement.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/reverseString.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/sortedSquares.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/sortedSquares.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/subarraysWithKDistinct.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/twoSum.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

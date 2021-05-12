@@ -132,6 +132,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/longestSubstring.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/maxAscendingSum.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/maxSatisfied.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -159,6 +162,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/minWindow.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/moveZeroes.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/numMovesStonesII.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -168,13 +174,22 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/numSubseq.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/removeElement.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/reverseString.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/sortedSquares.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/subarraysWithKDistinct.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/twoSum.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/CMakeLists.txt">

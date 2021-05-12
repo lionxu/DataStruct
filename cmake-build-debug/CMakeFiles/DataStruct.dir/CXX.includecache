@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/intersection.cpp
-iostream
--
+D:/CLionProjects/DataStruct/leetcode/twoSum.cpp
 vector
 -
-algorithm
+iostream
 -
 

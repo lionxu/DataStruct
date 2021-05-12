@@ -32,6 +32,8 @@ CMakeFiles/DataStruct.dir/leetcode/longestSubarray.cpp.obj: ../leetcode/longestS
 
 CMakeFiles/DataStruct.dir/leetcode/longestSubstring.cpp.obj: ../leetcode/longestSubstring.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/maxAscendingSum.cpp.obj: ../leetcode/maxAscendingSum.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/maxSatisfied.cpp.obj: ../leetcode/maxSatisfied.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/maxScore.cpp.obj: ../leetcode/maxScore.cpp
@@ -50,15 +52,23 @@ CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj: ../leetcode/minOperati
 
 CMakeFiles/DataStruct.dir/leetcode/minWindow.cpp.obj: ../leetcode/minWindow.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/moveZeroes.cpp.obj: ../leetcode/moveZeroes.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/numMovesStonesII.cpp.obj: ../leetcode/numMovesStonesII.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj: ../leetcode/numSubmatrixSumTarget.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj: ../leetcode/numSubseq.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.obj: ../leetcode/removeElement.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj: ../leetcode/reverseString.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj: ../leetcode/shortestSeq.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/sortedSquares.cpp.obj: ../leetcode/sortedSquares.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj: ../leetcode/subarraysWithKDistinct.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.obj: ../leetcode/twoSum.cpp
 

@@ -32,5 +32,12 @@ add_executable(DataStruct
         leetcode/findMaxValueOfEquation.cpp
         leetcode/minOperations.cpp
         leetcode/MaxQueue.cpp
-        leetcode/MaxQueue.h leetcode/shortestSeq.cpp
-        leetcode/getKthFromEnd.cpp leetcode/kthToLast.cpp leetcode/reverseString.cpp leetcode/intersection.cpp)
+        leetcode/MaxQueue.h
+        leetcode/shortestSeq.cpp
+        leetcode/getKthFromEnd.cpp
+        leetcode/kthToLast.cpp
+        leetcode/reverseString.cpp
+        leetcode/intersection.cpp
+        leetcode/sortedSquares.cpp
+        leetcode/moveZeroes.cpp
+        leetcode/maxAscendingSum.cpp leetcode/removeElement.cpp leetcode/twoSum.cpp)
