@@ -6,6 +6,8 @@ CMakeFiles/DataStruct.dir/hello.c.obj
 CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/MaxQueue.cpp
  D:/CLionProjects/DataStruct/leetcode/MaxQueue.h
+CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/backspaceCompare.cpp
 CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/characterReplacement.cpp
 CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj
@@ -16,6 +18,8 @@ CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/findMaxValueOfEquation.cpp
 CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/getKthFromEnd.cpp
+CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/intersect.cpp
 CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/intersection.cpp
 CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj
@@ -46,6 +50,8 @@ CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/maxVowels.cpp
 CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/medianSlidingWindow.cpp
+CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/merge.cpp
 CMakeFiles/DataStruct.dir/leetcode/minKBitFlips.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/minKBitFlips.cpp
 CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj
@@ -60,6 +66,8 @@ CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/numSubmatrixSumTarget.cpp
 CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/numSubseq.cpp
+CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/removeDuplicates.cpp
 CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/removeElement.cpp
 CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj

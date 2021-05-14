@@ -195,6 +195,33 @@ leetcode/MaxQueue.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.s
 .PHONY : leetcode/MaxQueue.cpp.s
 
+leetcode/backspaceCompare.obj: leetcode/backspaceCompare.cpp.obj
+
+.PHONY : leetcode/backspaceCompare.obj
+
+# target to build an object file
+leetcode/backspaceCompare.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj
+.PHONY : leetcode/backspaceCompare.cpp.obj
+
+leetcode/backspaceCompare.i: leetcode/backspaceCompare.cpp.i
+
+.PHONY : leetcode/backspaceCompare.i
+
+# target to preprocess a source file
+leetcode/backspaceCompare.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.i
+.PHONY : leetcode/backspaceCompare.cpp.i
+
+leetcode/backspaceCompare.s: leetcode/backspaceCompare.cpp.s
+
+.PHONY : leetcode/backspaceCompare.s
+
+# target to generate assembly for a file
+leetcode/backspaceCompare.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.s
+.PHONY : leetcode/backspaceCompare.cpp.s
+
 leetcode/characterReplacement.obj: leetcode/characterReplacement.cpp.obj
 
 .PHONY : leetcode/characterReplacement.obj
@@ -329,6 +356,33 @@ leetcode/getKthFromEnd.s: leetcode/getKthFromEnd.cpp.s
 leetcode/getKthFromEnd.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.s
 .PHONY : leetcode/getKthFromEnd.cpp.s
+
+leetcode/intersect.obj: leetcode/intersect.cpp.obj
+
+.PHONY : leetcode/intersect.obj
+
+# target to build an object file
+leetcode/intersect.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj
+.PHONY : leetcode/intersect.cpp.obj
+
+leetcode/intersect.i: leetcode/intersect.cpp.i
+
+.PHONY : leetcode/intersect.i
+
+# target to preprocess a source file
+leetcode/intersect.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.i
+.PHONY : leetcode/intersect.cpp.i
+
+leetcode/intersect.s: leetcode/intersect.cpp.s
+
+.PHONY : leetcode/intersect.s
+
+# target to generate assembly for a file
+leetcode/intersect.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.s
+.PHONY : leetcode/intersect.cpp.s
 
 leetcode/intersection.obj: leetcode/intersection.cpp.obj
 
@@ -735,6 +789,33 @@ leetcode/medianSlidingWindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.s
 .PHONY : leetcode/medianSlidingWindow.cpp.s
 
+leetcode/merge.obj: leetcode/merge.cpp.obj
+
+.PHONY : leetcode/merge.obj
+
+# target to build an object file
+leetcode/merge.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj
+.PHONY : leetcode/merge.cpp.obj
+
+leetcode/merge.i: leetcode/merge.cpp.i
+
+.PHONY : leetcode/merge.i
+
+# target to preprocess a source file
+leetcode/merge.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/merge.cpp.i
+.PHONY : leetcode/merge.cpp.i
+
+leetcode/merge.s: leetcode/merge.cpp.s
+
+.PHONY : leetcode/merge.s
+
+# target to generate assembly for a file
+leetcode/merge.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/merge.cpp.s
+.PHONY : leetcode/merge.cpp.s
+
 leetcode/minKBitFlips.obj: leetcode/minKBitFlips.cpp.obj
 
 .PHONY : leetcode/minKBitFlips.obj
@@ -924,6 +1005,33 @@ leetcode/numSubseq.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.s
 .PHONY : leetcode/numSubseq.cpp.s
 
+leetcode/removeDuplicates.obj: leetcode/removeDuplicates.cpp.obj
+
+.PHONY : leetcode/removeDuplicates.obj
+
+# target to build an object file
+leetcode/removeDuplicates.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj
+.PHONY : leetcode/removeDuplicates.cpp.obj
+
+leetcode/removeDuplicates.i: leetcode/removeDuplicates.cpp.i
+
+.PHONY : leetcode/removeDuplicates.i
+
+# target to preprocess a source file
+leetcode/removeDuplicates.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.i
+.PHONY : leetcode/removeDuplicates.cpp.i
+
+leetcode/removeDuplicates.s: leetcode/removeDuplicates.cpp.s
+
+.PHONY : leetcode/removeDuplicates.s
+
+# target to generate assembly for a file
+leetcode/removeDuplicates.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.s
+.PHONY : leetcode/removeDuplicates.cpp.s
+
 leetcode/removeElement.obj: leetcode/removeElement.cpp.obj
 
 .PHONY : leetcode/removeElement.obj
@@ -1101,6 +1209,9 @@ help:
 	@echo ... leetcode/MaxQueue.obj
 	@echo ... leetcode/MaxQueue.i
 	@echo ... leetcode/MaxQueue.s
+	@echo ... leetcode/backspaceCompare.obj
+	@echo ... leetcode/backspaceCompare.i
+	@echo ... leetcode/backspaceCompare.s
 	@echo ... leetcode/characterReplacement.obj
 	@echo ... leetcode/characterReplacement.i
 	@echo ... leetcode/characterReplacement.s
@@ -1116,6 +1227,9 @@ help:
 	@echo ... leetcode/getKthFromEnd.obj
 	@echo ... leetcode/getKthFromEnd.i
 	@echo ... leetcode/getKthFromEnd.s
+	@echo ... leetcode/intersect.obj
+	@echo ... leetcode/intersect.i
+	@echo ... leetcode/intersect.s
 	@echo ... leetcode/intersection.obj
 	@echo ... leetcode/intersection.i
 	@echo ... leetcode/intersection.s
@@ -1161,6 +1275,9 @@ help:
 	@echo ... leetcode/medianSlidingWindow.obj
 	@echo ... leetcode/medianSlidingWindow.i
 	@echo ... leetcode/medianSlidingWindow.s
+	@echo ... leetcode/merge.obj
+	@echo ... leetcode/merge.i
+	@echo ... leetcode/merge.s
 	@echo ... leetcode/minKBitFlips.obj
 	@echo ... leetcode/minKBitFlips.i
 	@echo ... leetcode/minKBitFlips.s
@@ -1182,6 +1299,9 @@ help:
 	@echo ... leetcode/numSubseq.obj
 	@echo ... leetcode/numSubseq.i
 	@echo ... leetcode/numSubseq.s
+	@echo ... leetcode/removeDuplicates.obj
+	@echo ... leetcode/removeDuplicates.i
+	@echo ... leetcode/removeDuplicates.s
 	@echo ... leetcode/removeElement.obj
 	@echo ... leetcode/removeElement.i
 	@echo ... leetcode/removeElement.s

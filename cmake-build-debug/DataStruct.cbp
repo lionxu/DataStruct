@@ -93,6 +93,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/MaxQueue.h">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/backspaceCompare.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/characterReplacement.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -106,6 +109,9 @@
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/getKthFromEnd.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/intersect.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/intersection.cpp">
@@ -153,6 +159,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/medianSlidingWindow.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/merge.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/minKBitFlips.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -172,6 +181,9 @@
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/numSubseq.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/removeDuplicates.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/removeElement.cpp">

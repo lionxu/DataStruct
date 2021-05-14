@@ -6,6 +6,8 @@ CMakeFiles/DataStruct.dir/hello.c.obj: ../hello.c
 CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj: ../leetcode/MaxQueue.cpp
 CMakeFiles/DataStruct.dir/leetcode/MaxQueue.cpp.obj: ../leetcode/MaxQueue.h
 
+CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj: ../leetcode/backspaceCompare.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/characterReplacement.cpp.obj: ../leetcode/characterReplacement.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.obj: ../leetcode/checkInclusion.cpp
@@ -15,6 +17,8 @@ CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.obj: ../leetcode/equalSubs
 CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj: ../leetcode/findMaxValueOfEquation.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj: ../leetcode/getKthFromEnd.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj: ../leetcode/intersect.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj: ../leetcode/intersection.cpp
 
@@ -46,6 +50,8 @@ CMakeFiles/DataStruct.dir/leetcode/maxVowels.cpp.obj: ../leetcode/maxVowels.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/medianSlidingWindow.cpp.obj: ../leetcode/medianSlidingWindow.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj: ../leetcode/merge.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/minKBitFlips.cpp.obj: ../leetcode/minKBitFlips.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/minOperations.cpp.obj: ../leetcode/minOperations.cpp
@@ -59,6 +65,8 @@ CMakeFiles/DataStruct.dir/leetcode/numMovesStonesII.cpp.obj: ../leetcode/numMove
 CMakeFiles/DataStruct.dir/leetcode/numSubmatrixSumTarget.cpp.obj: ../leetcode/numSubmatrixSumTarget.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.obj: ../leetcode/numSubseq.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj: ../leetcode/removeDuplicates.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.obj: ../leetcode/removeElement.cpp
 

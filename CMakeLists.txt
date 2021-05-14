@@ -40,4 +40,9 @@ add_executable(DataStruct
         leetcode/intersection.cpp
         leetcode/sortedSquares.cpp
         leetcode/moveZeroes.cpp
-        leetcode/maxAscendingSum.cpp leetcode/removeElement.cpp leetcode/twoSum.cpp)
+        leetcode/maxAscendingSum.cpp
+        leetcode/removeElement.cpp
+        leetcode/twoSum.cpp
+        leetcode/merge.cpp
+        leetcode/intersect.cpp
+        leetcode/removeDuplicates.cpp leetcode/backspaceCompare.cpp)

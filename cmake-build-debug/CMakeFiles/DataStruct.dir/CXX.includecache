@@ -6,8 +6,8 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/twoSum.cpp
-vector
+D:/CLionProjects/DataStruct/leetcode/backspaceCompare.cpp
+string
 -
 iostream
 -

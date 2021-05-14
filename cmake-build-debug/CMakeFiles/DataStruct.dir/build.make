@@ -565,6 +565,62 @@ CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\twoSum.cpp -o CMakeFiles\DataStruct.dir\leetcode\twoSum.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj: ../leetcode/merge.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\merge.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\merge.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/merge.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/merge.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\merge.cpp > CMakeFiles\DataStruct.dir\leetcode\merge.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/merge.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/merge.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\merge.cpp -o CMakeFiles\DataStruct.dir\leetcode\merge.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj: ../leetcode/intersect.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\intersect.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\intersect.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\intersect.cpp > CMakeFiles\DataStruct.dir\leetcode\intersect.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\intersect.cpp -o CMakeFiles\DataStruct.dir\leetcode\intersect.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj: ../leetcode/removeDuplicates.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\removeDuplicates.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\removeDuplicates.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\removeDuplicates.cpp > CMakeFiles\DataStruct.dir\leetcode\removeDuplicates.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\removeDuplicates.cpp -o CMakeFiles\DataStruct.dir\leetcode\removeDuplicates.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj: ../leetcode/backspaceCompare.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\backspaceCompare.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\backspaceCompare.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\backspaceCompare.cpp > CMakeFiles\DataStruct.dir\leetcode\backspaceCompare.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\backspaceCompare.cpp -o CMakeFiles\DataStruct.dir\leetcode\backspaceCompare.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -601,7 +657,11 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/moveZeroes.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/maxAscendingSum.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -641,11 +701,15 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/moveZeroes.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/maxAscendingSum.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
