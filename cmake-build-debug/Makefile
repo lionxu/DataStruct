@@ -357,6 +357,33 @@ leetcode/getKthFromEnd.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.s
 .PHONY : leetcode/getKthFromEnd.cpp.s
 
+leetcode/hasCycle.obj: leetcode/hasCycle.cpp.obj
+
+.PHONY : leetcode/hasCycle.obj
+
+# target to build an object file
+leetcode/hasCycle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj
+.PHONY : leetcode/hasCycle.cpp.obj
+
+leetcode/hasCycle.i: leetcode/hasCycle.cpp.i
+
+.PHONY : leetcode/hasCycle.i
+
+# target to preprocess a source file
+leetcode/hasCycle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.i
+.PHONY : leetcode/hasCycle.cpp.i
+
+leetcode/hasCycle.s: leetcode/hasCycle.cpp.s
+
+.PHONY : leetcode/hasCycle.s
+
+# target to generate assembly for a file
+leetcode/hasCycle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.s
+.PHONY : leetcode/hasCycle.cpp.s
+
 leetcode/intersect.obj: leetcode/intersect.cpp.obj
 
 .PHONY : leetcode/intersect.obj
@@ -410,6 +437,33 @@ leetcode/intersection.s: leetcode/intersection.cpp.s
 leetcode/intersection.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.s
 .PHONY : leetcode/intersection.cpp.s
+
+leetcode/isPalindrome.obj: leetcode/isPalindrome.cpp.obj
+
+.PHONY : leetcode/isPalindrome.obj
+
+# target to build an object file
+leetcode/isPalindrome.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj
+.PHONY : leetcode/isPalindrome.cpp.obj
+
+leetcode/isPalindrome.i: leetcode/isPalindrome.cpp.i
+
+.PHONY : leetcode/isPalindrome.i
+
+# target to preprocess a source file
+leetcode/isPalindrome.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.i
+.PHONY : leetcode/isPalindrome.cpp.i
+
+leetcode/isPalindrome.s: leetcode/isPalindrome.cpp.s
+
+.PHONY : leetcode/isPalindrome.s
+
+# target to generate assembly for a file
+leetcode/isPalindrome.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.s
+.PHONY : leetcode/isPalindrome.cpp.s
 
 leetcode/kthToLast.obj: leetcode/kthToLast.cpp.obj
 
@@ -1086,6 +1140,60 @@ leetcode/reverseString.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.s
 .PHONY : leetcode/reverseString.cpp.s
 
+leetcode/reverseVowels.obj: leetcode/reverseVowels.cpp.obj
+
+.PHONY : leetcode/reverseVowels.obj
+
+# target to build an object file
+leetcode/reverseVowels.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj
+.PHONY : leetcode/reverseVowels.cpp.obj
+
+leetcode/reverseVowels.i: leetcode/reverseVowels.cpp.i
+
+.PHONY : leetcode/reverseVowels.i
+
+# target to preprocess a source file
+leetcode/reverseVowels.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.i
+.PHONY : leetcode/reverseVowels.cpp.i
+
+leetcode/reverseVowels.s: leetcode/reverseVowels.cpp.s
+
+.PHONY : leetcode/reverseVowels.s
+
+# target to generate assembly for a file
+leetcode/reverseVowels.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.s
+.PHONY : leetcode/reverseVowels.cpp.s
+
+leetcode/romanToInt.obj: leetcode/romanToInt.cpp.obj
+
+.PHONY : leetcode/romanToInt.obj
+
+# target to build an object file
+leetcode/romanToInt.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj
+.PHONY : leetcode/romanToInt.cpp.obj
+
+leetcode/romanToInt.i: leetcode/romanToInt.cpp.i
+
+.PHONY : leetcode/romanToInt.i
+
+# target to preprocess a source file
+leetcode/romanToInt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.i
+.PHONY : leetcode/romanToInt.cpp.i
+
+leetcode/romanToInt.s: leetcode/romanToInt.cpp.s
+
+.PHONY : leetcode/romanToInt.s
+
+# target to generate assembly for a file
+leetcode/romanToInt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.s
+.PHONY : leetcode/romanToInt.cpp.s
+
 leetcode/shortestSeq.obj: leetcode/shortestSeq.cpp.obj
 
 .PHONY : leetcode/shortestSeq.obj
@@ -1227,12 +1335,18 @@ help:
 	@echo ... leetcode/getKthFromEnd.obj
 	@echo ... leetcode/getKthFromEnd.i
 	@echo ... leetcode/getKthFromEnd.s
+	@echo ... leetcode/hasCycle.obj
+	@echo ... leetcode/hasCycle.i
+	@echo ... leetcode/hasCycle.s
 	@echo ... leetcode/intersect.obj
 	@echo ... leetcode/intersect.i
 	@echo ... leetcode/intersect.s
 	@echo ... leetcode/intersection.obj
 	@echo ... leetcode/intersection.i
 	@echo ... leetcode/intersection.s
+	@echo ... leetcode/isPalindrome.obj
+	@echo ... leetcode/isPalindrome.i
+	@echo ... leetcode/isPalindrome.s
 	@echo ... leetcode/kthToLast.obj
 	@echo ... leetcode/kthToLast.i
 	@echo ... leetcode/kthToLast.s
@@ -1308,6 +1422,12 @@ help:
 	@echo ... leetcode/reverseString.obj
 	@echo ... leetcode/reverseString.i
 	@echo ... leetcode/reverseString.s
+	@echo ... leetcode/reverseVowels.obj
+	@echo ... leetcode/reverseVowels.i
+	@echo ... leetcode/reverseVowels.s
+	@echo ... leetcode/romanToInt.obj
+	@echo ... leetcode/romanToInt.i
+	@echo ... leetcode/romanToInt.s
 	@echo ... leetcode/shortestSeq.obj
 	@echo ... leetcode/shortestSeq.i
 	@echo ... leetcode/shortestSeq.s

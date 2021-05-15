@@ -18,9 +18,13 @@ CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj: ../leetcode/f
 
 CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj: ../leetcode/getKthFromEnd.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj: ../leetcode/hasCycle.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj: ../leetcode/intersect.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj: ../leetcode/intersection.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj: ../leetcode/isPalindrome.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj: ../leetcode/kthToLast.cpp
 
@@ -71,6 +75,10 @@ CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj: ../leetcode/removeD
 CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.obj: ../leetcode/removeElement.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj: ../leetcode/reverseString.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj: ../leetcode/reverseVowels.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj: ../leetcode/romanToInt.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj: ../leetcode/shortestSeq.cpp
 

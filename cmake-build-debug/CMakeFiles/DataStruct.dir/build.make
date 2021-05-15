@@ -621,6 +621,62 @@ CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\backspaceCompare.cpp -o CMakeFiles\DataStruct.dir\leetcode\backspaceCompare.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj: ../leetcode/romanToInt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\romanToInt.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\romanToInt.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\romanToInt.cpp > CMakeFiles\DataStruct.dir\leetcode\romanToInt.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\romanToInt.cpp -o CMakeFiles\DataStruct.dir\leetcode\romanToInt.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj: ../leetcode/reverseVowels.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\reverseVowels.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\reverseVowels.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\reverseVowels.cpp > CMakeFiles\DataStruct.dir\leetcode\reverseVowels.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\reverseVowels.cpp -o CMakeFiles\DataStruct.dir\leetcode\reverseVowels.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj: ../leetcode/hasCycle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\hasCycle.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\hasCycle.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\hasCycle.cpp > CMakeFiles\DataStruct.dir\leetcode\hasCycle.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\hasCycle.cpp -o CMakeFiles\DataStruct.dir\leetcode\hasCycle.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj: ../leetcode/isPalindrome.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\isPalindrome.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\isPalindrome.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\isPalindrome.cpp > CMakeFiles\DataStruct.dir\leetcode\isPalindrome.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\isPalindrome.cpp -o CMakeFiles\DataStruct.dir\leetcode\isPalindrome.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -661,7 +717,11 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -705,11 +765,15 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/merge.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/removeDuplicates.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

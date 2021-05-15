@@ -111,10 +111,16 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/getKthFromEnd.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/hasCycle.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/intersect.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/intersection.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/isPalindrome.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/kthToLast.cpp">
@@ -190,6 +196,12 @@
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/reverseString.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/reverseVowels.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/romanToInt.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp">

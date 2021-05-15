@@ -18,10 +18,14 @@ CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/findMaxValueOfEquation.cpp
 CMakeFiles/DataStruct.dir/leetcode/getKthFromEnd.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/getKthFromEnd.cpp
+CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/hasCycle.cpp
 CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/intersect.cpp
 CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/intersection.cpp
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/isPalindrome.cpp
 CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/kthToLast.cpp
 CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj
@@ -72,6 +76,10 @@ CMakeFiles/DataStruct.dir/leetcode/removeElement.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/removeElement.cpp
 CMakeFiles/DataStruct.dir/leetcode/reverseString.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/reverseString.cpp
+CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/reverseVowels.cpp
+CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj
+ D:/CLionProjects/DataStruct/leetcode/romanToInt.cpp
 CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj
  D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp
 CMakeFiles/DataStruct.dir/leetcode/sortedSquares.cpp.obj
