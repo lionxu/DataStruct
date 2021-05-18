@@ -677,6 +677,48 @@ CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\isPalindrome.cpp -o CMakeFiles\DataStruct.dir\leetcode\isPalindrome.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj: ../leetcode/isPalindrome_string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\isPalindrome_string.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\isPalindrome_string.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\isPalindrome_string.cpp > CMakeFiles\DataStruct.dir\leetcode\isPalindrome_string.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\isPalindrome_string.cpp -o CMakeFiles\DataStruct.dir\leetcode\isPalindrome_string.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj: ../leetcode/strStr.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\strStr.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\strStr.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\strStr.cpp > CMakeFiles\DataStruct.dir\leetcode\strStr.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\strStr.cpp -o CMakeFiles\DataStruct.dir\leetcode\strStr.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj: ../leetcode/isLongPressedName.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\isLongPressedName.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\isLongPressedName.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\isLongPressedName.cpp > CMakeFiles\DataStruct.dir\leetcode\isLongPressedName.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\isLongPressedName.cpp -o CMakeFiles\DataStruct.dir\leetcode\isLongPressedName.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -721,7 +763,10 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -769,11 +814,14 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/reverseVowels.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

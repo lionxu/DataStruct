@@ -25,7 +25,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLionProjects/DataStruct/leetcode/hasCycle.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/intersect.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/intersection.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/isLongPressedName.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/isPalindrome.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/isPalindrome_string.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/kthToLast.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstring.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstring.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/lengthOfLongestSubstringKDistinct.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/lengthOfLongestSubstringKDistinct.cpp.obj"
@@ -55,6 +57,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLionProjects/DataStruct/leetcode/romanToInt.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/shortestSeq.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/sortedSquares.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/sortedSquares.cpp.obj"
+  "D:/CLionProjects/DataStruct/leetcode/strStr.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/subarraysWithKDistinct.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj"
   "D:/CLionProjects/DataStruct/leetcode/twoSum.cpp" "D:/CLionProjects/DataStruct/cmake-build-debug/CMakeFiles/DataStruct.dir/leetcode/twoSum.cpp.obj"
   )

@@ -438,6 +438,33 @@ leetcode/intersection.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.s
 .PHONY : leetcode/intersection.cpp.s
 
+leetcode/isLongPressedName.obj: leetcode/isLongPressedName.cpp.obj
+
+.PHONY : leetcode/isLongPressedName.obj
+
+# target to build an object file
+leetcode/isLongPressedName.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj
+.PHONY : leetcode/isLongPressedName.cpp.obj
+
+leetcode/isLongPressedName.i: leetcode/isLongPressedName.cpp.i
+
+.PHONY : leetcode/isLongPressedName.i
+
+# target to preprocess a source file
+leetcode/isLongPressedName.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.i
+.PHONY : leetcode/isLongPressedName.cpp.i
+
+leetcode/isLongPressedName.s: leetcode/isLongPressedName.cpp.s
+
+.PHONY : leetcode/isLongPressedName.s
+
+# target to generate assembly for a file
+leetcode/isLongPressedName.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.s
+.PHONY : leetcode/isLongPressedName.cpp.s
+
 leetcode/isPalindrome.obj: leetcode/isPalindrome.cpp.obj
 
 .PHONY : leetcode/isPalindrome.obj
@@ -464,6 +491,33 @@ leetcode/isPalindrome.s: leetcode/isPalindrome.cpp.s
 leetcode/isPalindrome.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.s
 .PHONY : leetcode/isPalindrome.cpp.s
+
+leetcode/isPalindrome_string.obj: leetcode/isPalindrome_string.cpp.obj
+
+.PHONY : leetcode/isPalindrome_string.obj
+
+# target to build an object file
+leetcode/isPalindrome_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj
+.PHONY : leetcode/isPalindrome_string.cpp.obj
+
+leetcode/isPalindrome_string.i: leetcode/isPalindrome_string.cpp.i
+
+.PHONY : leetcode/isPalindrome_string.i
+
+# target to preprocess a source file
+leetcode/isPalindrome_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.i
+.PHONY : leetcode/isPalindrome_string.cpp.i
+
+leetcode/isPalindrome_string.s: leetcode/isPalindrome_string.cpp.s
+
+.PHONY : leetcode/isPalindrome_string.s
+
+# target to generate assembly for a file
+leetcode/isPalindrome_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.s
+.PHONY : leetcode/isPalindrome_string.cpp.s
 
 leetcode/kthToLast.obj: leetcode/kthToLast.cpp.obj
 
@@ -1248,6 +1302,33 @@ leetcode/sortedSquares.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/sortedSquares.cpp.s
 .PHONY : leetcode/sortedSquares.cpp.s
 
+leetcode/strStr.obj: leetcode/strStr.cpp.obj
+
+.PHONY : leetcode/strStr.obj
+
+# target to build an object file
+leetcode/strStr.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj
+.PHONY : leetcode/strStr.cpp.obj
+
+leetcode/strStr.i: leetcode/strStr.cpp.i
+
+.PHONY : leetcode/strStr.i
+
+# target to preprocess a source file
+leetcode/strStr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.i
+.PHONY : leetcode/strStr.cpp.i
+
+leetcode/strStr.s: leetcode/strStr.cpp.s
+
+.PHONY : leetcode/strStr.s
+
+# target to generate assembly for a file
+leetcode/strStr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.s
+.PHONY : leetcode/strStr.cpp.s
+
 leetcode/subarraysWithKDistinct.obj: leetcode/subarraysWithKDistinct.cpp.obj
 
 .PHONY : leetcode/subarraysWithKDistinct.obj
@@ -1344,9 +1425,15 @@ help:
 	@echo ... leetcode/intersection.obj
 	@echo ... leetcode/intersection.i
 	@echo ... leetcode/intersection.s
+	@echo ... leetcode/isLongPressedName.obj
+	@echo ... leetcode/isLongPressedName.i
+	@echo ... leetcode/isLongPressedName.s
 	@echo ... leetcode/isPalindrome.obj
 	@echo ... leetcode/isPalindrome.i
 	@echo ... leetcode/isPalindrome.s
+	@echo ... leetcode/isPalindrome_string.obj
+	@echo ... leetcode/isPalindrome_string.i
+	@echo ... leetcode/isPalindrome_string.s
 	@echo ... leetcode/kthToLast.obj
 	@echo ... leetcode/kthToLast.i
 	@echo ... leetcode/kthToLast.s
@@ -1434,6 +1521,9 @@ help:
 	@echo ... leetcode/sortedSquares.obj
 	@echo ... leetcode/sortedSquares.i
 	@echo ... leetcode/sortedSquares.s
+	@echo ... leetcode/strStr.obj
+	@echo ... leetcode/strStr.i
+	@echo ... leetcode/strStr.s
 	@echo ... leetcode/subarraysWithKDistinct.obj
 	@echo ... leetcode/subarraysWithKDistinct.i
 	@echo ... leetcode/subarraysWithKDistinct.s

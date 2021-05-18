@@ -45,4 +45,12 @@ add_executable(DataStruct
         leetcode/twoSum.cpp
         leetcode/merge.cpp
         leetcode/intersect.cpp
-        leetcode/removeDuplicates.cpp leetcode/backspaceCompare.cpp leetcode/romanToInt.cpp leetcode/reverseVowels.cpp leetcode/hasCycle.cpp leetcode/isPalindrome.cpp)
+        leetcode/removeDuplicates.cpp
+        leetcode/backspaceCompare.cpp
+        leetcode/romanToInt.cpp
+        leetcode/reverseVowels.cpp
+        leetcode/hasCycle.cpp
+        leetcode/isPalindrome.cpp
+        leetcode/isPalindrome_string.cpp
+        leetcode/strStr.cpp
+        leetcode/isLongPressedName.cpp)

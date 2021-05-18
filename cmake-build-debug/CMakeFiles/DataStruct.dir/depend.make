@@ -24,7 +24,11 @@ CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj: ../leetcode/intersect.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj: ../leetcode/intersection.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj: ../leetcode/isLongPressedName.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj: ../leetcode/isPalindrome.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj: ../leetcode/isPalindrome_string.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/kthToLast.cpp.obj: ../leetcode/kthToLast.cpp
 
@@ -83,6 +87,8 @@ CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.obj: ../leetcode/romanToInt.cp
 CMakeFiles/DataStruct.dir/leetcode/shortestSeq.cpp.obj: ../leetcode/shortestSeq.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/sortedSquares.cpp.obj: ../leetcode/sortedSquares.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj: ../leetcode/strStr.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj: ../leetcode/subarraysWithKDistinct.cpp
 

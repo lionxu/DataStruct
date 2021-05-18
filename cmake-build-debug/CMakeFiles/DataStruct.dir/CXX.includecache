@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/CLionProjects/DataStruct/leetcode/hasCycle.cpp
+D:/CLionProjects/DataStruct/leetcode/isLongPressedName.cpp
 iostream
+-
+string
 -
 
