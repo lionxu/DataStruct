@@ -102,6 +102,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/checkInclusion.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/connect.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/equalSubstring.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -118,6 +121,9 @@
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/intersection.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/invertTree.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/isLongPressedName.cpp">

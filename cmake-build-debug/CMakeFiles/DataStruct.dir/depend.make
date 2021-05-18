@@ -24,6 +24,8 @@ CMakeFiles/DataStruct.dir/leetcode/intersect.cpp.obj: ../leetcode/intersect.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.obj: ../leetcode/intersection.cpp
 
+CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.obj: ../leetcode/invertTree.cpp
+
 CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj: ../leetcode/isLongPressedName.cpp
 
 CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj: ../leetcode/isPalindrome.cpp

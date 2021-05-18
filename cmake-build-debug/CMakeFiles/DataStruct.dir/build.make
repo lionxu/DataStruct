@@ -719,6 +719,34 @@ CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\isLongPressedName.cpp -o CMakeFiles\DataStruct.dir\leetcode\isLongPressedName.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.obj: ../leetcode/invertTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\invertTree.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\invertTree.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\invertTree.cpp > CMakeFiles\DataStruct.dir\leetcode\invertTree.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\invertTree.cpp -o CMakeFiles\DataStruct.dir\leetcode\invertTree.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/connect.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/connect.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/connect.cpp.obj: ../leetcode/connect.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/connect.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\connect.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\connect.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/connect.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/connect.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\connect.cpp > CMakeFiles\DataStruct.dir\leetcode\connect.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/connect.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/connect.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\connect.cpp -o CMakeFiles\DataStruct.dir\leetcode\connect.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -766,7 +794,9 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/connect.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -817,11 +847,13 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/isPalindrome.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/strStr.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/isLongPressedName.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/connect.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

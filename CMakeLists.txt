@@ -53,4 +53,4 @@ add_executable(DataStruct
         leetcode/isPalindrome.cpp
         leetcode/isPalindrome_string.cpp
         leetcode/strStr.cpp
-        leetcode/isLongPressedName.cpp)
+        leetcode/isLongPressedName.cpp leetcode/invertTree.cpp leetcode/connect.cpp)

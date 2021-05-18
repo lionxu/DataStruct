@@ -92,12 +92,12 @@ clean: CMakeFiles/DataStruct.dir/clean
 CMakeFiles/DataStruct.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47 "Built target DataStruct"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49 "Built target DataStruct"
 .PHONY : CMakeFiles/DataStruct.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/DataStruct.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles 49
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/DataStruct.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/DataStruct.dir/rule

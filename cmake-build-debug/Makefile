@@ -276,6 +276,33 @@ leetcode/checkInclusion.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/checkInclusion.cpp.s
 .PHONY : leetcode/checkInclusion.cpp.s
 
+leetcode/connect.obj: leetcode/connect.cpp.obj
+
+.PHONY : leetcode/connect.obj
+
+# target to build an object file
+leetcode/connect.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/connect.cpp.obj
+.PHONY : leetcode/connect.cpp.obj
+
+leetcode/connect.i: leetcode/connect.cpp.i
+
+.PHONY : leetcode/connect.i
+
+# target to preprocess a source file
+leetcode/connect.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/connect.cpp.i
+.PHONY : leetcode/connect.cpp.i
+
+leetcode/connect.s: leetcode/connect.cpp.s
+
+.PHONY : leetcode/connect.s
+
+# target to generate assembly for a file
+leetcode/connect.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/connect.cpp.s
+.PHONY : leetcode/connect.cpp.s
+
 leetcode/equalSubstring.obj: leetcode/equalSubstring.cpp.obj
 
 .PHONY : leetcode/equalSubstring.obj
@@ -437,6 +464,33 @@ leetcode/intersection.s: leetcode/intersection.cpp.s
 leetcode/intersection.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/intersection.cpp.s
 .PHONY : leetcode/intersection.cpp.s
+
+leetcode/invertTree.obj: leetcode/invertTree.cpp.obj
+
+.PHONY : leetcode/invertTree.obj
+
+# target to build an object file
+leetcode/invertTree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.obj
+.PHONY : leetcode/invertTree.cpp.obj
+
+leetcode/invertTree.i: leetcode/invertTree.cpp.i
+
+.PHONY : leetcode/invertTree.i
+
+# target to preprocess a source file
+leetcode/invertTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.i
+.PHONY : leetcode/invertTree.cpp.i
+
+leetcode/invertTree.s: leetcode/invertTree.cpp.s
+
+.PHONY : leetcode/invertTree.s
+
+# target to generate assembly for a file
+leetcode/invertTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/invertTree.cpp.s
+.PHONY : leetcode/invertTree.cpp.s
 
 leetcode/isLongPressedName.obj: leetcode/isLongPressedName.cpp.obj
 
@@ -1407,6 +1461,9 @@ help:
 	@echo ... leetcode/checkInclusion.obj
 	@echo ... leetcode/checkInclusion.i
 	@echo ... leetcode/checkInclusion.s
+	@echo ... leetcode/connect.obj
+	@echo ... leetcode/connect.i
+	@echo ... leetcode/connect.s
 	@echo ... leetcode/equalSubstring.obj
 	@echo ... leetcode/equalSubstring.i
 	@echo ... leetcode/equalSubstring.s
@@ -1425,6 +1482,9 @@ help:
 	@echo ... leetcode/intersection.obj
 	@echo ... leetcode/intersection.i
 	@echo ... leetcode/intersection.s
+	@echo ... leetcode/invertTree.obj
+	@echo ... leetcode/invertTree.i
+	@echo ... leetcode/invertTree.s
 	@echo ... leetcode/isLongPressedName.obj
 	@echo ... leetcode/isLongPressedName.i
 	@echo ... leetcode/isLongPressedName.s
