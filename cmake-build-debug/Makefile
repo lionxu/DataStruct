@@ -411,6 +411,33 @@ leetcode/equalSubstring.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/equalSubstring.cpp.s
 .PHONY : leetcode/equalSubstring.cpp.s
 
+leetcode/findDuplicateSubtrees.obj: leetcode/findDuplicateSubtrees.cpp.obj
+
+.PHONY : leetcode/findDuplicateSubtrees.obj
+
+# target to build an object file
+leetcode/findDuplicateSubtrees.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.obj
+.PHONY : leetcode/findDuplicateSubtrees.cpp.obj
+
+leetcode/findDuplicateSubtrees.i: leetcode/findDuplicateSubtrees.cpp.i
+
+.PHONY : leetcode/findDuplicateSubtrees.i
+
+# target to preprocess a source file
+leetcode/findDuplicateSubtrees.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.i
+.PHONY : leetcode/findDuplicateSubtrees.cpp.i
+
+leetcode/findDuplicateSubtrees.s: leetcode/findDuplicateSubtrees.cpp.s
+
+.PHONY : leetcode/findDuplicateSubtrees.s
+
+# target to generate assembly for a file
+leetcode/findDuplicateSubtrees.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.s
+.PHONY : leetcode/findDuplicateSubtrees.cpp.s
+
 leetcode/findMaxValueOfEquation.obj: leetcode/findMaxValueOfEquation.cpp.obj
 
 .PHONY : leetcode/findMaxValueOfEquation.obj
@@ -1584,6 +1611,9 @@ help:
 	@echo ... leetcode/equalSubstring.obj
 	@echo ... leetcode/equalSubstring.i
 	@echo ... leetcode/equalSubstring.s
+	@echo ... leetcode/findDuplicateSubtrees.obj
+	@echo ... leetcode/findDuplicateSubtrees.i
+	@echo ... leetcode/findDuplicateSubtrees.s
 	@echo ... leetcode/findMaxValueOfEquation.obj
 	@echo ... leetcode/findMaxValueOfEquation.i
 	@echo ... leetcode/findMaxValueOfEquation.s

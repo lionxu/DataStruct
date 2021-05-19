@@ -120,6 +120,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/equalSubstring.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/findDuplicateSubtrees.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/findMaxValueOfEquation.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
