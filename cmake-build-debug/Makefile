@@ -222,6 +222,60 @@ leetcode/backspaceCompare.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/backspaceCompare.cpp.s
 .PHONY : leetcode/backspaceCompare.cpp.s
 
+leetcode/buildTree_1.obj: leetcode/buildTree_1.cpp.obj
+
+.PHONY : leetcode/buildTree_1.obj
+
+# target to build an object file
+leetcode/buildTree_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/buildTree_1.cpp.obj
+.PHONY : leetcode/buildTree_1.cpp.obj
+
+leetcode/buildTree_1.i: leetcode/buildTree_1.cpp.i
+
+.PHONY : leetcode/buildTree_1.i
+
+# target to preprocess a source file
+leetcode/buildTree_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/buildTree_1.cpp.i
+.PHONY : leetcode/buildTree_1.cpp.i
+
+leetcode/buildTree_1.s: leetcode/buildTree_1.cpp.s
+
+.PHONY : leetcode/buildTree_1.s
+
+# target to generate assembly for a file
+leetcode/buildTree_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/buildTree_1.cpp.s
+.PHONY : leetcode/buildTree_1.cpp.s
+
+leetcode/buildTree_2.obj: leetcode/buildTree_2.cpp.obj
+
+.PHONY : leetcode/buildTree_2.obj
+
+# target to build an object file
+leetcode/buildTree_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/buildTree_2.cpp.obj
+.PHONY : leetcode/buildTree_2.cpp.obj
+
+leetcode/buildTree_2.i: leetcode/buildTree_2.cpp.i
+
+.PHONY : leetcode/buildTree_2.i
+
+# target to preprocess a source file
+leetcode/buildTree_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/buildTree_2.cpp.i
+.PHONY : leetcode/buildTree_2.cpp.i
+
+leetcode/buildTree_2.s: leetcode/buildTree_2.cpp.s
+
+.PHONY : leetcode/buildTree_2.s
+
+# target to generate assembly for a file
+leetcode/buildTree_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/buildTree_2.cpp.s
+.PHONY : leetcode/buildTree_2.cpp.s
+
 leetcode/characterReplacement.obj: leetcode/characterReplacement.cpp.obj
 
 .PHONY : leetcode/characterReplacement.obj
@@ -303,6 +357,33 @@ leetcode/connect.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/connect.cpp.s
 .PHONY : leetcode/connect.cpp.s
 
+leetcode/constructMaximumBinaryTree.obj: leetcode/constructMaximumBinaryTree.cpp.obj
+
+.PHONY : leetcode/constructMaximumBinaryTree.obj
+
+# target to build an object file
+leetcode/constructMaximumBinaryTree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/constructMaximumBinaryTree.cpp.obj
+.PHONY : leetcode/constructMaximumBinaryTree.cpp.obj
+
+leetcode/constructMaximumBinaryTree.i: leetcode/constructMaximumBinaryTree.cpp.i
+
+.PHONY : leetcode/constructMaximumBinaryTree.i
+
+# target to preprocess a source file
+leetcode/constructMaximumBinaryTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/constructMaximumBinaryTree.cpp.i
+.PHONY : leetcode/constructMaximumBinaryTree.cpp.i
+
+leetcode/constructMaximumBinaryTree.s: leetcode/constructMaximumBinaryTree.cpp.s
+
+.PHONY : leetcode/constructMaximumBinaryTree.s
+
+# target to generate assembly for a file
+leetcode/constructMaximumBinaryTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/constructMaximumBinaryTree.cpp.s
+.PHONY : leetcode/constructMaximumBinaryTree.cpp.s
+
 leetcode/equalSubstring.obj: leetcode/equalSubstring.cpp.obj
 
 .PHONY : leetcode/equalSubstring.obj
@@ -356,6 +437,33 @@ leetcode/findMaxValueOfEquation.s: leetcode/findMaxValueOfEquation.cpp.s
 leetcode/findMaxValueOfEquation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/findMaxValueOfEquation.cpp.s
 .PHONY : leetcode/findMaxValueOfEquation.cpp.s
+
+leetcode/flatten.obj: leetcode/flatten.cpp.obj
+
+.PHONY : leetcode/flatten.obj
+
+# target to build an object file
+leetcode/flatten.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/flatten.cpp.obj
+.PHONY : leetcode/flatten.cpp.obj
+
+leetcode/flatten.i: leetcode/flatten.cpp.i
+
+.PHONY : leetcode/flatten.i
+
+# target to preprocess a source file
+leetcode/flatten.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/flatten.cpp.i
+.PHONY : leetcode/flatten.cpp.i
+
+leetcode/flatten.s: leetcode/flatten.cpp.s
+
+.PHONY : leetcode/flatten.s
+
+# target to generate assembly for a file
+leetcode/flatten.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/flatten.cpp.s
+.PHONY : leetcode/flatten.cpp.s
 
 leetcode/getKthFromEnd.obj: leetcode/getKthFromEnd.cpp.obj
 
@@ -1455,6 +1563,12 @@ help:
 	@echo ... leetcode/backspaceCompare.obj
 	@echo ... leetcode/backspaceCompare.i
 	@echo ... leetcode/backspaceCompare.s
+	@echo ... leetcode/buildTree_1.obj
+	@echo ... leetcode/buildTree_1.i
+	@echo ... leetcode/buildTree_1.s
+	@echo ... leetcode/buildTree_2.obj
+	@echo ... leetcode/buildTree_2.i
+	@echo ... leetcode/buildTree_2.s
 	@echo ... leetcode/characterReplacement.obj
 	@echo ... leetcode/characterReplacement.i
 	@echo ... leetcode/characterReplacement.s
@@ -1464,12 +1578,18 @@ help:
 	@echo ... leetcode/connect.obj
 	@echo ... leetcode/connect.i
 	@echo ... leetcode/connect.s
+	@echo ... leetcode/constructMaximumBinaryTree.obj
+	@echo ... leetcode/constructMaximumBinaryTree.i
+	@echo ... leetcode/constructMaximumBinaryTree.s
 	@echo ... leetcode/equalSubstring.obj
 	@echo ... leetcode/equalSubstring.i
 	@echo ... leetcode/equalSubstring.s
 	@echo ... leetcode/findMaxValueOfEquation.obj
 	@echo ... leetcode/findMaxValueOfEquation.i
 	@echo ... leetcode/findMaxValueOfEquation.s
+	@echo ... leetcode/flatten.obj
+	@echo ... leetcode/flatten.i
+	@echo ... leetcode/flatten.s
 	@echo ... leetcode/getKthFromEnd.obj
 	@echo ... leetcode/getKthFromEnd.i
 	@echo ... leetcode/getKthFromEnd.s
