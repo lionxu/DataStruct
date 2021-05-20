@@ -384,6 +384,33 @@ leetcode/constructMaximumBinaryTree.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/constructMaximumBinaryTree.cpp.s
 .PHONY : leetcode/constructMaximumBinaryTree.cpp.s
 
+leetcode/convertBST.obj: leetcode/convertBST.cpp.obj
+
+.PHONY : leetcode/convertBST.obj
+
+# target to build an object file
+leetcode/convertBST.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj
+.PHONY : leetcode/convertBST.cpp.obj
+
+leetcode/convertBST.i: leetcode/convertBST.cpp.i
+
+.PHONY : leetcode/convertBST.i
+
+# target to preprocess a source file
+leetcode/convertBST.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.i
+.PHONY : leetcode/convertBST.cpp.i
+
+leetcode/convertBST.s: leetcode/convertBST.cpp.s
+
+.PHONY : leetcode/convertBST.s
+
+# target to generate assembly for a file
+leetcode/convertBST.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.s
+.PHONY : leetcode/convertBST.cpp.s
+
 leetcode/equalSubstring.obj: leetcode/equalSubstring.cpp.obj
 
 .PHONY : leetcode/equalSubstring.obj
@@ -707,6 +734,33 @@ leetcode/isPalindrome_string.s: leetcode/isPalindrome_string.cpp.s
 leetcode/isPalindrome_string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.s
 .PHONY : leetcode/isPalindrome_string.cpp.s
+
+leetcode/kthSmallest.obj: leetcode/kthSmallest.cpp.obj
+
+.PHONY : leetcode/kthSmallest.obj
+
+# target to build an object file
+leetcode/kthSmallest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.obj
+.PHONY : leetcode/kthSmallest.cpp.obj
+
+leetcode/kthSmallest.i: leetcode/kthSmallest.cpp.i
+
+.PHONY : leetcode/kthSmallest.i
+
+# target to preprocess a source file
+leetcode/kthSmallest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.i
+.PHONY : leetcode/kthSmallest.cpp.i
+
+leetcode/kthSmallest.s: leetcode/kthSmallest.cpp.s
+
+.PHONY : leetcode/kthSmallest.s
+
+# target to generate assembly for a file
+leetcode/kthSmallest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.s
+.PHONY : leetcode/kthSmallest.cpp.s
 
 leetcode/kthToLast.obj: leetcode/kthToLast.cpp.obj
 
@@ -1608,6 +1662,9 @@ help:
 	@echo ... leetcode/constructMaximumBinaryTree.obj
 	@echo ... leetcode/constructMaximumBinaryTree.i
 	@echo ... leetcode/constructMaximumBinaryTree.s
+	@echo ... leetcode/convertBST.obj
+	@echo ... leetcode/convertBST.i
+	@echo ... leetcode/convertBST.s
 	@echo ... leetcode/equalSubstring.obj
 	@echo ... leetcode/equalSubstring.i
 	@echo ... leetcode/equalSubstring.s
@@ -1644,6 +1701,9 @@ help:
 	@echo ... leetcode/isPalindrome_string.obj
 	@echo ... leetcode/isPalindrome_string.i
 	@echo ... leetcode/isPalindrome_string.s
+	@echo ... leetcode/kthSmallest.obj
+	@echo ... leetcode/kthSmallest.i
+	@echo ... leetcode/kthSmallest.s
 	@echo ... leetcode/kthToLast.obj
 	@echo ... leetcode/kthToLast.i
 	@echo ... leetcode/kthToLast.s

@@ -817,6 +817,34 @@ CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\findDuplicateSubtrees.cpp -o CMakeFiles\DataStruct.dir\leetcode\findDuplicateSubtrees.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.obj: ../leetcode/kthSmallest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\kthSmallest.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\kthSmallest.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\kthSmallest.cpp > CMakeFiles\DataStruct.dir\leetcode\kthSmallest.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\kthSmallest.cpp -o CMakeFiles\DataStruct.dir\leetcode\kthSmallest.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj: ../leetcode/convertBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\convertBST.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\convertBST.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\convertBST.cpp > CMakeFiles\DataStruct.dir\leetcode\convertBST.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\convertBST.cpp -o CMakeFiles\DataStruct.dir\leetcode\convertBST.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -871,7 +899,9 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/constructMaximumBinaryTree.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/buildTree_1.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/buildTree_2.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -929,11 +959,13 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/constructMaximumBinaryTree.cp
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/buildTree_1.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/buildTree_2.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

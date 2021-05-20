@@ -117,6 +117,9 @@
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/constructMaximumBinaryTree.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/convertBST.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/equalSubstring.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
@@ -151,6 +154,9 @@
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/isPalindrome_string.cpp">
+			<Option target="DataStruct"/>
+		</Unit>
+		<Unit filename="D:/CLionProjects/DataStruct/leetcode/kthSmallest.cpp">
 			<Option target="DataStruct"/>
 		</Unit>
 		<Unit filename="D:/CLionProjects/DataStruct/leetcode/kthToLast.cpp">
