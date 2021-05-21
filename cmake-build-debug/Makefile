@@ -411,6 +411,33 @@ leetcode/convertBST.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.s
 .PHONY : leetcode/convertBST.cpp.s
 
+leetcode/deleteNode.obj: leetcode/deleteNode.cpp.obj
+
+.PHONY : leetcode/deleteNode.obj
+
+# target to build an object file
+leetcode/deleteNode.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.obj
+.PHONY : leetcode/deleteNode.cpp.obj
+
+leetcode/deleteNode.i: leetcode/deleteNode.cpp.i
+
+.PHONY : leetcode/deleteNode.i
+
+# target to preprocess a source file
+leetcode/deleteNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.i
+.PHONY : leetcode/deleteNode.cpp.i
+
+leetcode/deleteNode.s: leetcode/deleteNode.cpp.s
+
+.PHONY : leetcode/deleteNode.s
+
+# target to generate assembly for a file
+leetcode/deleteNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.s
+.PHONY : leetcode/deleteNode.cpp.s
+
 leetcode/equalSubstring.obj: leetcode/equalSubstring.cpp.obj
 
 .PHONY : leetcode/equalSubstring.obj
@@ -519,6 +546,33 @@ leetcode/flatten.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/flatten.cpp.s
 .PHONY : leetcode/flatten.cpp.s
 
+leetcode/generateTrees.obj: leetcode/generateTrees.cpp.obj
+
+.PHONY : leetcode/generateTrees.obj
+
+# target to build an object file
+leetcode/generateTrees.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.obj
+.PHONY : leetcode/generateTrees.cpp.obj
+
+leetcode/generateTrees.i: leetcode/generateTrees.cpp.i
+
+.PHONY : leetcode/generateTrees.i
+
+# target to preprocess a source file
+leetcode/generateTrees.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.i
+.PHONY : leetcode/generateTrees.cpp.i
+
+leetcode/generateTrees.s: leetcode/generateTrees.cpp.s
+
+.PHONY : leetcode/generateTrees.s
+
+# target to generate assembly for a file
+leetcode/generateTrees.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.s
+.PHONY : leetcode/generateTrees.cpp.s
+
 leetcode/getKthFromEnd.obj: leetcode/getKthFromEnd.cpp.obj
 
 .PHONY : leetcode/getKthFromEnd.obj
@@ -572,6 +626,60 @@ leetcode/hasCycle.s: leetcode/hasCycle.cpp.s
 leetcode/hasCycle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/hasCycle.cpp.s
 .PHONY : leetcode/hasCycle.cpp.s
+
+leetcode/inorderTraversal.obj: leetcode/inorderTraversal.cpp.obj
+
+.PHONY : leetcode/inorderTraversal.obj
+
+# target to build an object file
+leetcode/inorderTraversal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.obj
+.PHONY : leetcode/inorderTraversal.cpp.obj
+
+leetcode/inorderTraversal.i: leetcode/inorderTraversal.cpp.i
+
+.PHONY : leetcode/inorderTraversal.i
+
+# target to preprocess a source file
+leetcode/inorderTraversal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.i
+.PHONY : leetcode/inorderTraversal.cpp.i
+
+leetcode/inorderTraversal.s: leetcode/inorderTraversal.cpp.s
+
+.PHONY : leetcode/inorderTraversal.s
+
+# target to generate assembly for a file
+leetcode/inorderTraversal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.s
+.PHONY : leetcode/inorderTraversal.cpp.s
+
+leetcode/insertIntoBST.obj: leetcode/insertIntoBST.cpp.obj
+
+.PHONY : leetcode/insertIntoBST.obj
+
+# target to build an object file
+leetcode/insertIntoBST.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.obj
+.PHONY : leetcode/insertIntoBST.cpp.obj
+
+leetcode/insertIntoBST.i: leetcode/insertIntoBST.cpp.i
+
+.PHONY : leetcode/insertIntoBST.i
+
+# target to preprocess a source file
+leetcode/insertIntoBST.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.i
+.PHONY : leetcode/insertIntoBST.cpp.i
+
+leetcode/insertIntoBST.s: leetcode/insertIntoBST.cpp.s
+
+.PHONY : leetcode/insertIntoBST.s
+
+# target to generate assembly for a file
+leetcode/insertIntoBST.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.s
+.PHONY : leetcode/insertIntoBST.cpp.s
 
 leetcode/intersect.obj: leetcode/intersect.cpp.obj
 
@@ -734,6 +842,33 @@ leetcode/isPalindrome_string.s: leetcode/isPalindrome_string.cpp.s
 leetcode/isPalindrome_string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isPalindrome_string.cpp.s
 .PHONY : leetcode/isPalindrome_string.cpp.s
+
+leetcode/isValidBST.obj: leetcode/isValidBST.cpp.obj
+
+.PHONY : leetcode/isValidBST.obj
+
+# target to build an object file
+leetcode/isValidBST.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.obj
+.PHONY : leetcode/isValidBST.cpp.obj
+
+leetcode/isValidBST.i: leetcode/isValidBST.cpp.i
+
+.PHONY : leetcode/isValidBST.i
+
+# target to preprocess a source file
+leetcode/isValidBST.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.i
+.PHONY : leetcode/isValidBST.cpp.i
+
+leetcode/isValidBST.s: leetcode/isValidBST.cpp.s
+
+.PHONY : leetcode/isValidBST.s
+
+# target to generate assembly for a file
+leetcode/isValidBST.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.s
+.PHONY : leetcode/isValidBST.cpp.s
 
 leetcode/kthSmallest.obj: leetcode/kthSmallest.cpp.obj
 
@@ -1356,6 +1491,33 @@ leetcode/numSubseq.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numSubseq.cpp.s
 .PHONY : leetcode/numSubseq.cpp.s
 
+leetcode/numTrees.obj: leetcode/numTrees.cpp.obj
+
+.PHONY : leetcode/numTrees.obj
+
+# target to build an object file
+leetcode/numTrees.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.obj
+.PHONY : leetcode/numTrees.cpp.obj
+
+leetcode/numTrees.i: leetcode/numTrees.cpp.i
+
+.PHONY : leetcode/numTrees.i
+
+# target to preprocess a source file
+leetcode/numTrees.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.i
+.PHONY : leetcode/numTrees.cpp.i
+
+leetcode/numTrees.s: leetcode/numTrees.cpp.s
+
+.PHONY : leetcode/numTrees.s
+
+# target to generate assembly for a file
+leetcode/numTrees.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.s
+.PHONY : leetcode/numTrees.cpp.s
+
 leetcode/removeDuplicates.obj: leetcode/removeDuplicates.cpp.obj
 
 .PHONY : leetcode/removeDuplicates.obj
@@ -1490,6 +1652,33 @@ leetcode/romanToInt.s: leetcode/romanToInt.cpp.s
 leetcode/romanToInt.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/romanToInt.cpp.s
 .PHONY : leetcode/romanToInt.cpp.s
+
+leetcode/searchBST.obj: leetcode/searchBST.cpp.obj
+
+.PHONY : leetcode/searchBST.obj
+
+# target to build an object file
+leetcode/searchBST.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.obj
+.PHONY : leetcode/searchBST.cpp.obj
+
+leetcode/searchBST.i: leetcode/searchBST.cpp.i
+
+.PHONY : leetcode/searchBST.i
+
+# target to preprocess a source file
+leetcode/searchBST.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.i
+.PHONY : leetcode/searchBST.cpp.i
+
+leetcode/searchBST.s: leetcode/searchBST.cpp.s
+
+.PHONY : leetcode/searchBST.s
+
+# target to generate assembly for a file
+leetcode/searchBST.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStruct.dir\build.make CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.s
+.PHONY : leetcode/searchBST.cpp.s
 
 leetcode/shortestSeq.obj: leetcode/shortestSeq.cpp.obj
 
@@ -1665,6 +1854,9 @@ help:
 	@echo ... leetcode/convertBST.obj
 	@echo ... leetcode/convertBST.i
 	@echo ... leetcode/convertBST.s
+	@echo ... leetcode/deleteNode.obj
+	@echo ... leetcode/deleteNode.i
+	@echo ... leetcode/deleteNode.s
 	@echo ... leetcode/equalSubstring.obj
 	@echo ... leetcode/equalSubstring.i
 	@echo ... leetcode/equalSubstring.s
@@ -1677,12 +1869,21 @@ help:
 	@echo ... leetcode/flatten.obj
 	@echo ... leetcode/flatten.i
 	@echo ... leetcode/flatten.s
+	@echo ... leetcode/generateTrees.obj
+	@echo ... leetcode/generateTrees.i
+	@echo ... leetcode/generateTrees.s
 	@echo ... leetcode/getKthFromEnd.obj
 	@echo ... leetcode/getKthFromEnd.i
 	@echo ... leetcode/getKthFromEnd.s
 	@echo ... leetcode/hasCycle.obj
 	@echo ... leetcode/hasCycle.i
 	@echo ... leetcode/hasCycle.s
+	@echo ... leetcode/inorderTraversal.obj
+	@echo ... leetcode/inorderTraversal.i
+	@echo ... leetcode/inorderTraversal.s
+	@echo ... leetcode/insertIntoBST.obj
+	@echo ... leetcode/insertIntoBST.i
+	@echo ... leetcode/insertIntoBST.s
 	@echo ... leetcode/intersect.obj
 	@echo ... leetcode/intersect.i
 	@echo ... leetcode/intersect.s
@@ -1701,6 +1902,9 @@ help:
 	@echo ... leetcode/isPalindrome_string.obj
 	@echo ... leetcode/isPalindrome_string.i
 	@echo ... leetcode/isPalindrome_string.s
+	@echo ... leetcode/isValidBST.obj
+	@echo ... leetcode/isValidBST.i
+	@echo ... leetcode/isValidBST.s
 	@echo ... leetcode/kthSmallest.obj
 	@echo ... leetcode/kthSmallest.i
 	@echo ... leetcode/kthSmallest.s
@@ -1770,6 +1974,9 @@ help:
 	@echo ... leetcode/numSubseq.obj
 	@echo ... leetcode/numSubseq.i
 	@echo ... leetcode/numSubseq.s
+	@echo ... leetcode/numTrees.obj
+	@echo ... leetcode/numTrees.i
+	@echo ... leetcode/numTrees.s
 	@echo ... leetcode/removeDuplicates.obj
 	@echo ... leetcode/removeDuplicates.i
 	@echo ... leetcode/removeDuplicates.s
@@ -1785,6 +1992,9 @@ help:
 	@echo ... leetcode/romanToInt.obj
 	@echo ... leetcode/romanToInt.i
 	@echo ... leetcode/romanToInt.s
+	@echo ... leetcode/searchBST.obj
+	@echo ... leetcode/searchBST.i
+	@echo ... leetcode/searchBST.s
 	@echo ... leetcode/shortestSeq.obj
 	@echo ... leetcode/shortestSeq.i
 	@echo ... leetcode/shortestSeq.s

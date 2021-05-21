@@ -61,4 +61,13 @@ add_executable(DataStruct
         leetcode/constructMaximumBinaryTree.cpp
         leetcode/buildTree_1.cpp
         leetcode/buildTree_2.cpp
-        leetcode/findDuplicateSubtrees.cpp leetcode/kthSmallest.cpp leetcode/convertBST.cpp)
+        leetcode/findDuplicateSubtrees.cpp
+        leetcode/kthSmallest.cpp
+        leetcode/convertBST.cpp
+        leetcode/isValidBST.cpp
+        leetcode/searchBST.cpp
+        leetcode/insertIntoBST.cpp
+        leetcode/deleteNode.cpp
+        leetcode/numTrees.cpp
+        leetcode/generateTrees.cpp
+        leetcode/inorderTraversal.cpp)

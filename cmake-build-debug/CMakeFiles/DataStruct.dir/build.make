@@ -845,6 +845,104 @@ CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\convertBST.cpp -o CMakeFiles\DataStruct.dir\leetcode\convertBST.cpp.s
 
+CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.obj: ../leetcode/isValidBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\isValidBST.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\isValidBST.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\isValidBST.cpp > CMakeFiles\DataStruct.dir\leetcode\isValidBST.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\isValidBST.cpp -o CMakeFiles\DataStruct.dir\leetcode\isValidBST.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.obj: ../leetcode/searchBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\searchBST.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\searchBST.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\searchBST.cpp > CMakeFiles\DataStruct.dir\leetcode\searchBST.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\searchBST.cpp -o CMakeFiles\DataStruct.dir\leetcode\searchBST.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.obj: ../leetcode/insertIntoBST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\insertIntoBST.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\insertIntoBST.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\insertIntoBST.cpp > CMakeFiles\DataStruct.dir\leetcode\insertIntoBST.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\insertIntoBST.cpp -o CMakeFiles\DataStruct.dir\leetcode\insertIntoBST.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.obj: ../leetcode/deleteNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\deleteNode.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\deleteNode.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\deleteNode.cpp > CMakeFiles\DataStruct.dir\leetcode\deleteNode.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\deleteNode.cpp -o CMakeFiles\DataStruct.dir\leetcode\deleteNode.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.obj: ../leetcode/numTrees.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\numTrees.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\numTrees.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\numTrees.cpp > CMakeFiles\DataStruct.dir\leetcode\numTrees.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\numTrees.cpp -o CMakeFiles\DataStruct.dir\leetcode\numTrees.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.obj: ../leetcode/generateTrees.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\generateTrees.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\generateTrees.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\generateTrees.cpp > CMakeFiles\DataStruct.dir\leetcode\generateTrees.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\generateTrees.cpp -o CMakeFiles\DataStruct.dir\leetcode\generateTrees.cpp.s
+
+CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.obj: CMakeFiles/DataStruct.dir/flags.make
+CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.obj: CMakeFiles/DataStruct.dir/includes_CXX.rsp
+CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.obj: ../leetcode/inorderTraversal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\DataStruct.dir\leetcode\inorderTraversal.cpp.obj -c D:\CLionProjects\DataStruct\leetcode\inorderTraversal.cpp
+
+CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\DataStruct\leetcode\inorderTraversal.cpp > CMakeFiles\DataStruct.dir\leetcode\inorderTraversal.cpp.i
+
+CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\DataStruct\leetcode\inorderTraversal.cpp -o CMakeFiles\DataStruct.dir\leetcode\inorderTraversal.cpp.s
+
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/subarraysWithKDistinct.cpp.obj" \
@@ -901,7 +999,14 @@ DataStruct_OBJECTS = \
 "CMakeFiles/DataStruct.dir/leetcode/buildTree_2.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.obj" \
 "CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.obj" \
-"CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj"
+"CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.obj" \
+"CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
@@ -961,11 +1066,18 @@ DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/buildTree_2.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/findDuplicateSubtrees.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/kthSmallest.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/convertBST.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/isValidBST.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/searchBST.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/insertIntoBST.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/deleteNode.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/numTrees.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/generateTrees.cpp.obj
+DataStruct.exe: CMakeFiles/DataStruct.dir/leetcode/inorderTraversal.cpp.obj
 DataStruct.exe: CMakeFiles/DataStruct.dir/build.make
 DataStruct.exe: CMakeFiles/DataStruct.dir/linklibs.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/objects1.rsp
 DataStruct.exe: CMakeFiles/DataStruct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Linking CXX executable DataStruct.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLionProjects\DataStruct\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Linking CXX executable DataStruct.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DataStruct.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
