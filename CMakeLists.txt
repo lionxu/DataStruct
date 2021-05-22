@@ -70,4 +70,5 @@ add_executable(DataStruct
         leetcode/deleteNode.cpp
         leetcode/numTrees.cpp
         leetcode/generateTrees.cpp
-        leetcode/inorderTraversal.cpp)
+        leetcode/inorderTraversal.cpp
+        leetcode/convertBiNode.cpp)
