@@ -72,4 +72,5 @@ add_executable(DataStruct
         leetcode/generateTrees.cpp
         leetcode/inorderTraversal.cpp
         leetcode/convertBiNode.cpp
-        leetcode/maxSumBST.cpp)
+        leetcode/maxSumBST.cpp
+        leetcode/balanceBST.cpp)
