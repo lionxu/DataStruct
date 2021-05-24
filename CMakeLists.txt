@@ -73,4 +73,4 @@ add_executable(DataStruct
         leetcode/inorderTraversal.cpp
         leetcode/convertBiNode.cpp
         leetcode/maxSumBST.cpp
-        leetcode/balanceBST.cpp)
+        leetcode/balanceBST.cpp leetcode/fib.cpp leetcode/coinChange.cpp)
