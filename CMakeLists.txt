@@ -79,4 +79,4 @@ add_executable(DataStruct
         leetcode/minFallingPathSum.cpp
         leetcode/longestPalindromeSubseq.cpp
         leetcode/findTargetSumWays.cpp
-        leetcode/minDistance.cpp)
+        leetcode/minDistance.cpp leetcode/lengthOfLIS.cpp)
