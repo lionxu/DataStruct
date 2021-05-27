@@ -82,4 +82,4 @@ add_executable(DataStruct
         leetcode/minDistance.cpp
         leetcode/lengthOfLIS.cpp
         leetcode/maxSubArray.cpp
-        leetcode/maxEnvelopes.cpp)
+        leetcode/maxEnvelopes.cpp leetcode/longestCommonSubsequence.cpp)
