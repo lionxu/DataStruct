@@ -38,7 +38,7 @@ private:
     }
 };
 
-int main() {
+int test_lengthOfLIS() {
 
     Solution solution;
     vector<int> nums{10, 9, 2, 5, 3, 7, 101, 18};
