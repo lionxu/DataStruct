@@ -11,7 +11,7 @@ public:
         int m = text1.size();
         int n = text2.size();
 
-        vector<vector<int>> memo(m, vector<int>(n, 0));
+        vector<vector<int>> memo(m, vector<int>(n, -1));
 
         return dp(text1, 0, text2, 0, memo);
     }
@@ -21,7 +21,7 @@ private:
         if (i == text1.length()) return 0;
         if (j == text2.length()) return 0;
 
-        if (memo[i][j] != 0) {
+        if (memo[i][j] != -1) {
             return memo[i][j];
         }
 
