@@ -42,7 +42,7 @@ private:
         if (s1[i] == s2[j]){
             memo[i][j] = dp(s1, i + 1, s2, j + 1, memo);
         }else {
-            memo[i][j] = min(s1[i] + dp(s1, i + 1, s2, j), s2[j] + dp(s1, i, s2, j + 1));
+            memo[i][j] = min(s1[i] + dp(s1, i + 1, s2, j, memo), s2[j] + dp(s1, i, s2, j + 1, memo));
         }
 
         return memo[i][j];

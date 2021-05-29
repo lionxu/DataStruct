@@ -35,7 +35,7 @@ private:
     }
 };
 
-int main() {
+int test_longestCommonSubsequence() {
 
     Solution solution;
 
