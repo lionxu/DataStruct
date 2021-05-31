@@ -36,7 +36,7 @@ private:
     }
 };
 
-int main() {
+int test_eraseOverlapIntervals() {
     Solution solution;
 
     vector<vector<int>> intervals{{1, 2}, {2, 3}, {3, 4}, {1, 3}};
