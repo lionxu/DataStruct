@@ -87,4 +87,4 @@ add_executable(DataStruct
         leetcode/minimumDeleteSum.cpp
         leetcode/canPartition.cpp
         leetcode/change.cpp
-        leetcode/eraseOverlapIntervals.cpp leetcode/findMinArrowShots.cpp leetcode/canJump.cpp leetcode/jump.cpp leetcode/minPathSum.cpp)
+        leetcode/eraseOverlapIntervals.cpp leetcode/findMinArrowShots.cpp leetcode/canJump.cpp leetcode/jump.cpp leetcode/minPathSum.cpp leetcode/calculateMinimumHP.cpp)
