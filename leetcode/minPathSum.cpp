@@ -31,7 +31,7 @@ public:
     }
 };
 
-int main() {
+int test_minPathSum() {
 
     Solution solution;
 
