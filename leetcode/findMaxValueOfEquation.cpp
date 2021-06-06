@@ -113,4 +113,6 @@ int test_findMaxValueOfEquation() {
 
     cout << solution.findMaxValueOfEquation(points3, k3) << endl;
 
+
+    return 0;
 }

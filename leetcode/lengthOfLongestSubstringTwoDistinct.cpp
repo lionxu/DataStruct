@@ -35,4 +35,6 @@ int test_lengthOfLongestSubstringTwoDistinct(){
     Solution solution;
     cout << solution.lengthOfLongestSubstringTwoDistinct("eceba") << endl;
     cout << solution.lengthOfLongestSubstringTwoDistinct("ccaabbb") << endl;
+
+    return 0;
 }

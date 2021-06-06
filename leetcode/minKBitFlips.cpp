@@ -39,4 +39,6 @@ int test_minKBitFlips(){
     vector.push_back(0);
 
     cout << solution.minKBitFlips(vector, 3) << endl;
+
+    return 0;
 }

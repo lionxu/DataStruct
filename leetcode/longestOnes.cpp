@@ -63,4 +63,6 @@ int test_longestOnes(){
     A1.push_back(1);
     A1.push_back(1);
     cout << solution.longestOnes(A1, 3) << endl;
+
+    return 0;
 }

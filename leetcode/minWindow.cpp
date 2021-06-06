@@ -55,4 +55,6 @@ int test_minWindow(){
     string t = "ABC";
     Solution solution;
     cout << solution.minWindow(s, t) << endl;
+
+    return 0;
 }

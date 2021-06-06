@@ -56,4 +56,6 @@ int test_maxSatisfied(){
     Solution solution;
 
     cout << solution.maxSatisfied(customers, grumpy, 3) << endl;
+
+    return 0;
 }

@@ -55,4 +55,6 @@ int test_intersect() {
     }
 
     cout << endl;
+
+    return 0;
 }

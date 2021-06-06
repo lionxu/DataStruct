@@ -11,8 +11,7 @@ public:
         int col = matrix[0].size();
         int ret = 0;
 
-        int prefix[row][col];
-        memset(prefix, 0, row * col);
+        vector<vector<int>> prefix(row, vector<int>(col, 0));
 
         for (int x = 0; x < row; ++x) {
             for (int y = 0; y < col; ++y) {
@@ -59,4 +58,6 @@ int test_numSubmatrixSumTarget(){
     matrix2[1].push_back(-1);
     matrix2[1].push_back(1);
     cout << solution.numSubmatrixSumTarget(matrix2, 0) << endl;
+
+    return 0;
 }

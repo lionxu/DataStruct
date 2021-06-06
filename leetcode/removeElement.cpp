@@ -39,4 +39,6 @@ int test_removeElement() {
     }
 
     cout << endl;
+
+    return 0;
 }

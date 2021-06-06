@@ -36,4 +36,6 @@ int test_lengthOfLongestSubstringKDistinct(){
     Solution solution;
     cout << solution.lengthOfLongestSubstringKDistinct("eceba", 2) << endl;
     cout << solution.lengthOfLongestSubstringKDistinct("aa", 1) << endl;
+
+    return 0;
 }

@@ -45,4 +45,6 @@ int test_kthToLast(){
 
     Solution solution;
     cout << solution.kthToLast(&node1, k) << endl;
+
+    return 0;
 }

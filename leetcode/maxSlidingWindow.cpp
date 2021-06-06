@@ -43,4 +43,6 @@ int test_maxSlidingWindow() {
     for (int i = 0; i < vector.size(); ++i) {
         cout << vector[i] << endl;
     }
+
+    return 0;
 }

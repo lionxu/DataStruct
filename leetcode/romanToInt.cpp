@@ -83,4 +83,6 @@ int test_romanToInt() {
 
     string s5 = "MCMXCIV";
     cout << solution.romanToInt(s5) << endl;
+
+    return 0;
 }

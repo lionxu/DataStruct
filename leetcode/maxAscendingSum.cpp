@@ -25,4 +25,6 @@ int test_maxAscendingSum() {
     vector<int> nums{10, 20, 30, 5, 10, 50};
     Solution solution;
     cout << solution.maxAscendingSum(nums) << endl;
+
+    return 0;
 }

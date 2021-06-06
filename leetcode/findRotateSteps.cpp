@@ -51,7 +51,7 @@ private:
     }
 };
 
-int main() {
+int test_findRotateSteps() {
     Solution solution;
 
     string ring = "godding";

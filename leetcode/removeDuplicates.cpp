@@ -48,4 +48,6 @@ int test_removeDuplicates() {
 
     cout << endl;
 
+
+    return 0;
 }
