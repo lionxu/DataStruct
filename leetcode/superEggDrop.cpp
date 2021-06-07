@@ -69,7 +69,7 @@ private:
 };
 
 
-int main() {
+int test_superEggDrop() {
 	Solution solution;
 
 	cout << solution.superEggDrop(4, 7547) << endl;

@@ -95,4 +95,5 @@ add_executable(DataStruct
         leetcode/calculateMinimumHP.cpp
         leetcode/findRotateSteps.cpp
         leetcode/isMatch.cpp 
-        leetcode/superEggDrop.cpp)
+        leetcode/superEggDrop.cpp 
+        leetcode/maxCoins.cpp)
