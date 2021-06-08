@@ -55,7 +55,7 @@ public:
 
 };
 
-int main() {
+int test_stoneGame() {
 
 	Solution solution;
 
