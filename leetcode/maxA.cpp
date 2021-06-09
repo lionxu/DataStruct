@@ -30,7 +30,7 @@ public:
 	}
 };
 
-int main() {
+int test_maxA() {
 	Solution solution;
 
 	cout << solution.maxA(3) << endl;
