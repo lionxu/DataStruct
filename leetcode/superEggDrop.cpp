@@ -18,14 +18,11 @@ public:
 
 private:
 	int dp(int k, int n, unordered_map<string, int>& memo) {
-
-		// 楼层为零,无需测试
 		if (n == 0)
 		{
 			return 0;
 		}
 
-		// 只有一个鸡蛋,只能一层一层的测试
 		if (k == 1)
 		{
 			return n;
@@ -33,15 +30,13 @@ private:
 
 		string history_key = to_string(k) + "," + to_string(n);
 
-		// 通过历史记录来减少重叠子问题的计算次数
 		if (memo.count(history_key))
 		{
 			return memo[history_key];
 		}
 
 		int result = INT_MAX;
-
-		// 遍历所有楼层进行测试
+		
 		int low = 1;
 		int high = n;
 		while (low <= high)

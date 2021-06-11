@@ -6,7 +6,7 @@ using namespace std;
 class Solution
 {
 public:
-	int maxProfit(vector<int>& prices) {
+	int maxProfit_1(vector<int>& prices) {
 		int n = prices.size();
 
 		vector<vector<int>> dp(n, vector<int>(2, 0));
@@ -28,13 +28,13 @@ public:
 	}
 };
 
-int main() {
+int test_maxProfit() {
 
 	Solution solution;
 
 	vector<int> nums{7, 6, 4, 3, 1};
 
-	cout << solution.maxProfit(nums) << endl;
+	cout << solution.maxProfit_1(nums) << endl;
 
 	return 0;
 }

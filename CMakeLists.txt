@@ -99,4 +99,7 @@ add_executable(DataStruct
         leetcode/maxCoins.cpp 
         leetcode/stoneGame.cpp 
         leetcode/maxA.cpp 
-        leetcode/maxProfit_1.cpp)
+        leetcode/maxProfit_1.cpp
+        leetcode/maxProfit_2.cpp
+        leetcode/maxProfit_3.cpp
+        leetcode/maxProfit_4.cpp)
