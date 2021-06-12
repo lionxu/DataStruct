@@ -28,7 +28,7 @@ public:
     }
 };
 
-int main() {
+int test_maxProfit_4() {
     vector<int> prices{2, 4, 1};
     Solution solution;
     cout << solution.maxProfit_4(2, prices) << endl;

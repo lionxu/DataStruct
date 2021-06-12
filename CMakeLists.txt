@@ -102,4 +102,5 @@ add_executable(DataStruct
         leetcode/maxProfit_1.cpp
         leetcode/maxProfit_2.cpp
         leetcode/maxProfit_3.cpp
-        leetcode/maxProfit_4.cpp)
+        leetcode/maxProfit_4.cpp
+        leetcode/maxProfit_5.cpp leetcode/maxProfit_6.cpp)
