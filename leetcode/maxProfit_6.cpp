@@ -28,7 +28,7 @@ public:
     }
 };
 
-int main() {
+int test_maxProfit_6() {
     vector<int> prices{1, 3, 2, 8, 4, 9};
     int fee = 2;
 
