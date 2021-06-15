@@ -29,7 +29,7 @@ private:
     }
 };
 
-int main() {
+int test_rob_3() {
     Solution solution;
 
     auto *root = new TreeNode(3);
@@ -41,4 +41,6 @@ int main() {
     root->right->right = new TreeNode(1);
 
     cout << solution.rob_3(root) << endl;
+
+    return 0;
 }

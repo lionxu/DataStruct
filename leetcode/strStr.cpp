@@ -8,41 +8,36 @@ class Solution {
 public:
     int strStr(string haystack, string needle) {
 
-        int m = haystack.size();
-        int n = needle.size();
+        int n = haystack.size();
+        int m = needle.size();
 
-        if (n == 0){
+        if (m == 0) {
             return 0;
         }
 
-        vector<int> next(n);
-        int j = 0;
-        next[j] = 0;
+        vector<vector<int>> dp(m, vector<int>(256, 0));
 
-        for (int i = 1; i < n; ++i) {
-            while (j > 0 && needle[i] != needle[j]) {
-                j = next[j - 1];
+        dp[0][needle[0]] = 1;
+
+        int x = 0;
+
+        for (int i = 1; i < m; ++i) {
+            for (int j = 0; j < 256; ++j) {
+                if (j == needle[i]) {
+                    dp[i][j] = i + 1;
+                } else {
+                    dp[i][j] = dp[x][j];
+                }
             }
-
-            if (needle[i] == needle[j]) {
-                j++;
-            }
-
-            next[i] = j;
+            x = dp[x][needle[i]];
         }
 
-        for (int i = 0, k = 0; i < m; ++i) {
-            while (k > 0 && haystack[i] != needle[k]) {
-                k = next[k - 1];
-            }
+        int j = 0;
 
-            if (haystack[i] == needle[k]) {
-                k++;
-            }
+        for (int i = 0; i < n; ++i) {
+            j = dp[j][haystack[i]];
 
-            if (k == n){
-                return i - n + 1;
-            }
+            if (j == m) return i - m + 1;
         }
 
         return -1;
