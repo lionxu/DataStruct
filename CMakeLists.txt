@@ -107,4 +107,5 @@ add_executable(DataStruct
         leetcode/maxProfit_6.cpp
         leetcode/rob_1.cpp
         leetcode/rob_2.cpp
-        leetcode/rob_3.cpp)
+        leetcode/rob_3.cpp
+        leetcode/minInsertions.cpp)
