@@ -109,4 +109,5 @@ add_executable(DataStruct
         leetcode/rob_2.cpp
         leetcode/rob_3.cpp
         leetcode/minInsertions.cpp
-        leetcode/findContentChildren.cpp)
+        leetcode/findContentChildren.cpp
+        leetcode/canPlaceFlowers.cpp)
