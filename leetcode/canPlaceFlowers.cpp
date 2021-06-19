@@ -22,7 +22,7 @@ public:
     }
 };
 
-int main() {
+int test_canPlaceFlowers() {
     vector<int> flowerbed{1, 0, 0, 0, 1};
 
     Solution solution;
