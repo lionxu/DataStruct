@@ -6,7 +6,7 @@ using namespace std;
 class Solution {
 public:
     TreeNode *constructMaximumBinaryTree(vector<int> &nums) {
-
+        return build(nums, 0, nums.size());
     }
 
     /**

@@ -53,4 +53,6 @@ int test_maxLength() {
     Solution solution;
 
     cout << solution.maxLength(arr) << endl;
+
+    return 0;
 }
