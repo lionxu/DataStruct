@@ -112,4 +112,6 @@ add_executable(DataStruct
         leetcode/findContentChildren.cpp
         leetcode/canPlaceFlowers.cpp
         leetcode/maxLength.cpp
-        leetcode/partitionLabels.cpp leetcode/reconstructQueue.cpp)
+        leetcode/partitionLabels.cpp
+        leetcode/reconstructQueue.cpp
+        leetcode/checkPossibility.cpp)
