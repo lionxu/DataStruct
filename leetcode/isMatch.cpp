@@ -1,56 +1,42 @@
 #include <string>
-#include <unordered_map>
+#include <vector>
+#include <iostream>
 
 using namespace std;
 
 class Solution {
 public:
     bool isMatch(string s, string p) {
-        unordered_map<string, bool> memo;
-        return dp(s, 0, p, 0, memo);
-    }
+        int m = s.length();
+        int n = p.length();
 
-private:
-    bool dp(string &s, int i, string &p, int j, unordered_map<string, bool> &memo) {
-        int m = s.size();
-        int n = p.size();
+        vector<vector<bool>> dp(m + 1, vector<bool>(n + 1, false));
 
-        if (j == n) return i == m;
+        dp[0][0] = true;
 
-        if (i == m) {
-            if ((n - j) % 2 != 0) return false;
-
-            int k = j;
-
-            while (k + 1 < n) {
-                if (p[k + 1] != '*') return false;
-                k += 2;
-            }
-
-            return true;
-        }
-
-        string history_key = to_string(i) + "," + to_string(j);
-
-        if (memo.count(history_key)) return memo[history_key];
-
-        bool result;
-
-        if (s[i] == p[j] || p[j] == '.') {
-            if (j < n && p[j + 1] == '*') {
-                result = dp(s, i + 1, p, j, memo) || dp(s, i, p, j + 2, memo);
-            } else {
-                result = dp(s, i + 1, p, j + 1, memo);
-            }
-        } else {
-            if (j < n && p[j + 1] == '*') {
-                result = dp(s, i, p, j + 2, memo);
-            } else {
-                result = false;
+        for (int i = 0; i <= m; ++i) {
+            for (int j = 1; j <= n; ++j) {
+                if (s[i] == p[j] || p[j] == '.') dp[i][j] = dp[i - 1][j - 1];
+                else if (p[j] == '*') {
+                    if (s[i] == p[j - 1] || p[j - 1] == '.') dp[i][j] = dp[i][j - 1] || dp[i - 1][j] || dp[i][j - 2];
+                    else dp[i][j] = dp[i][j - 2];
+                } else {
+                    dp[i][j] = false;
+                }
             }
         }
-        memo[history_key] = result;
 
-        return result;
+        return dp[m][n];
     }
 };
+
+int main() {
+    Solution solution;
+
+    string s = "aa";
+    string p = "a";
+
+    cout << solution.isMatch(s, p) << endl;
+
+    return 0;
+}
