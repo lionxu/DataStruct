@@ -30,11 +30,11 @@ public:
     }
 };
 
-int main() {
+int test_isMatch() {
     Solution solution;
 
     string s = "aa";
-    string p = "a";
+    string p = "a*";
 
     cout << solution.isMatch(s, p) << endl;
 
