@@ -40,7 +40,7 @@ public:
 };
 
 
-int main() {
+int test_longestValidParentheses() {
     Solution solution;
 
     cout << solution.longestValidParentheses("(()") << endl;

@@ -116,4 +116,5 @@ add_executable(DataStruct
         leetcode/longestPalindrome.cpp
         leetcode/reconstructQueue.cpp
         leetcode/checkPossibility.cpp
-        leetcode/longestValidParentheses.cpp)
+        leetcode/longestValidParentheses.cpp
+        leetcode/trap.cpp)
