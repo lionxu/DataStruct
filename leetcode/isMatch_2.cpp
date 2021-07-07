@@ -36,7 +36,7 @@ public:
     }
 };
 
-int test_isMatch() {
+int test_isMatch_2() {
     Solution solution;
 
     string s = "aa";
