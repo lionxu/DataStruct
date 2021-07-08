@@ -118,4 +118,7 @@ add_executable(DataStruct
         leetcode/checkPossibility.cpp
         leetcode/longestValidParentheses.cpp
         leetcode/trap.cpp
-        leetcode/isMatch_2.cpp leetcode/uniquePaths.cpp leetcode/uniquePathsWithObstacles.cpp)
+        leetcode/isMatch_2.cpp
+        leetcode/uniquePaths.cpp
+        leetcode/uniquePathsWithObstacles.cpp
+        leetcode/climbStairs.cpp)
