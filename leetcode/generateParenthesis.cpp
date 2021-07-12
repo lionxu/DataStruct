@@ -37,7 +37,7 @@ public:
     }
 };
 
-int main() {
+int test_generateParenthesis() {
     Solution solution;
 
     vector<string> result = solution.generateParenthesis(0);
