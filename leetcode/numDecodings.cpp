@@ -27,7 +27,7 @@ public:
     }
 };
 
-int main() {
+int test_numDecodings() {
     Solution solution;
 
     cout << solution.numDecodings("12") << endl;
