@@ -20,7 +20,7 @@ public:
     }
 };
 
-int main() {
+int test_numTrees() {
     Solution solution;
 
     cout << solution.numTrees(3) << endl;

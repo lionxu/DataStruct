@@ -126,4 +126,5 @@ add_executable(DataStruct
         leetcode/climbStairs.cpp
         leetcode/maximalRectangle.cpp
         leetcode/isScramble.cpp
-        leetcode/numDecodings.cpp)
+        leetcode/numDecodings.cpp
+        leetcode/maxArea.cpp)
