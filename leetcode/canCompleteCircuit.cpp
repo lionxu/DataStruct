@@ -26,7 +26,7 @@ public:
     }
 };
 
-int main() {
+int test_canCompleteCircuit() {
     Solution solution;
 
     vector<int> gas{1, 2, 3, 4, 5};

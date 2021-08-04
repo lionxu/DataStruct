@@ -128,4 +128,5 @@ add_executable(DataStruct
         leetcode/isScramble.cpp
         leetcode/numDecodings.cpp
         leetcode/maxArea.cpp
-        leetcode/canCompleteCircuit.cpp)
+        leetcode/canCompleteCircuit.cpp
+        leetcode/largestNumber.cpp)
