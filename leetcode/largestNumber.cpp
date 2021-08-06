@@ -34,7 +34,7 @@ public:
     }
 };
 
-int main() {
+int test_largestNumber() {
     Solution solution;
 
     vector<int> nums{10, 2};
