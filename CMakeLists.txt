@@ -130,4 +130,5 @@ add_executable(DataStruct
         leetcode/maxArea.cpp
         leetcode/canCompleteCircuit.cpp
         leetcode/largestNumber.cpp
-        leetcode/removeDuplicateLetters.cpp)
+        leetcode/removeDuplicateLetters.cpp
+        leetcode/maxNumber.cpp)
