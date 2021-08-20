@@ -7,7 +7,7 @@ using namespace std;
 
 class Solution {
 public:
-    vector<vector<int>> reconstructQueue(vector<vector<int>> &people) {
+    static vector<vector<int>> reconstructQueue(vector<vector<int>> &people) {
         sort(people.begin(), people.end(), comp);
 
         list<vector<int>> result;
@@ -21,7 +21,7 @@ public:
             result.insert(iter, i);
         }
 
-        return vector<vector<int>>(result.begin(), result.end());
+        return {result.begin(), result.end()};
     }
 
 private:
@@ -40,7 +40,7 @@ int reconstructQueue() {
                                {6, 1},
                                {5, 2}};
 
-    vector<vector<int>> result = solution.reconstructQueue(people);
+    vector<vector<int>> result = Solution::reconstructQueue(people);
 
     for (auto &i : result) {
         for (int j : i) {
