@@ -134,4 +134,5 @@ add_executable(DataStruct
         leetcode/maxNumber.cpp
         leetcode/minPatches.cpp
         leetcode/increasingTriplet.cpp
-        leetcode/wiggleMaxLength.cpp)
+        leetcode/wiggleMaxLength.cpp
+        leetcode/removeKdigits.cpp)
