@@ -136,4 +136,5 @@ add_executable(DataStruct
         leetcode/increasingTriplet.cpp
         leetcode/wiggleMaxLength.cpp
         leetcode/removeKdigits.cpp
-        leetcode/longestPalindrome_2.cpp)
+        leetcode/longestPalindrome_2.cpp
+        leetcode/splitArray.cpp)
