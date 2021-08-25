@@ -51,7 +51,7 @@ public:
     }
 };
 
-int main() {
+int test_splitArray() {
     vector<int> nums{7, 2, 5, 10, 8};
     int m = 2;
 
