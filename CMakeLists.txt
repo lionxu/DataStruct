@@ -139,4 +139,5 @@ add_executable(DataStruct
         leetcode/longestPalindrome_2.cpp
         leetcode/splitArray.cpp
         leetcode/detectCycle_2.cpp
-        leetcode/ListNode.h)
+        leetcode/ListNode.h
+        leetcode/judgeSquareSum.cpp)
