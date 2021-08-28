@@ -1,60 +1,57 @@
 #include <string>
-#include <unordered_map>
+#include <vector>
 #include <iostream>
 
 using namespace std;
 
 class Solution {
 public:
-    string minWindow(string s, string t) {
-        int need_count = 0;
-        unordered_map<char, int> map;
-        for (int i = 0; i < t.size(); ++i) {
-            map[t[i]]++;
-            need_count++;
+    static string minWindow(const string& s, const string& t) {
+        vector<int> chars(128, 0);
+        vector<int> flag(128, false);
+
+        for (char c: t) {
+            chars[c]++;
+            flag[c] = true;
         }
 
-        int result_left = 0;
-        int result_right = 1e5;
-
+        int count = 0;
         int left = 0;
+        int min_left = 0;
+        int min_size = s.size() + 1;
+
         for (int right = 0; right < s.size(); ++right) {
-            if (map[s[right]] > 0) {
-                need_count--;
-            }
-
-            map[s[right]]--;
-
-            if (need_count == 0) {
-                while (map[s[left]] < 0) {
-                    map[s[left]]++;
-                    left++;
+            if (flag[s[right]]) {
+                if (--chars[s[right]] >= 0) {
+                    ++count;
                 }
 
-                if (right - left < result_right - result_left) {
-                    result_left = left;
-                    result_right = right;
-                }
+                while (count == t.size()) {
+                    if (right - left + 1 < min_size) {
+                        min_left = left;
+                        min_size = right - left + 1;
+                    }
 
-                map[s[left]]++;
-                left++;
-                need_count++;
+                    if (flag[s[left]] && ++chars[s[left]] > 0) {
+                        --count;
+                    }
+                    ++left;
+                }
             }
         }
 
-        if (result_right > s.size()){
+        if (min_size > s.size()) {
             return "";
-        } else{
-            return s.substr(result_left, result_right - result_left + 1);
+        } else {
+            return s.substr(min_left, min_size);
         }
     }
 };
 
-int test_minWindow(){
+int test_minWindow() {
     string s = "ADOBECODEBANC";
     string t = "ABC";
-    Solution solution;
-    cout << solution.minWindow(s, t) << endl;
+    cout << Solution::minWindow(s, t) << endl;
 
     return 0;
 }
