@@ -138,4 +138,5 @@ add_executable(DataStruct
         leetcode/removeKdigits.cpp
         leetcode/longestPalindrome_2.cpp
         leetcode/splitArray.cpp
-        leetcode/detectCycle_2.cpp leetcode/ListNode.h)
+        leetcode/detectCycle_2.cpp
+        leetcode/ListNode.h)
