@@ -140,4 +140,6 @@ add_executable(DataStruct
         leetcode/splitArray.cpp
         leetcode/detectCycle_2.cpp
         leetcode/ListNode.h
-        leetcode/judgeSquareSum.cpp)
+        leetcode/judgeSquareSum.cpp
+        leetcode/validPalindrome.cpp
+        leetcode/findLongestWord.cpp)

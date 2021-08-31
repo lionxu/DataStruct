@@ -24,7 +24,7 @@ public:
     }
 };
 
-int main() {
+int test_judgeSquareSum() {
     int c = 5;
 
     cout << Solution::judgeSquareSum(c) << endl;
