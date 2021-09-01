@@ -142,4 +142,6 @@ add_executable(DataStruct
         leetcode/ListNode.h
         leetcode/judgeSquareSum.cpp
         leetcode/validPalindrome.cpp
-        leetcode/findLongestWord.cpp)
+        leetcode/findLongestWord.cpp
+        leetcode/mySqrt.cpp
+        leetcode/searchRange.cpp)

@@ -37,7 +37,7 @@ public:
     }
 };
 
-int main() {
+int test_findLongestWord() {
     string s = "abpcplea";
     vector<string> dictionary = {"ale","apple","monkey","plea"};
     cout << Solution::findLongestWord(s, dictionary);
