@@ -144,4 +144,6 @@ add_executable(DataStruct
         leetcode/validPalindrome.cpp
         leetcode/findLongestWord.cpp
         leetcode/mySqrt.cpp
-        leetcode/searchRange.cpp)
+        leetcode/searchRange.cpp
+        leetcode/search_2.cpp
+        leetcode/findMin.cpp)
