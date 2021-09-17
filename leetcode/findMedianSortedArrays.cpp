@@ -45,7 +45,7 @@ public:
     }
 };
 
-int main() {
+int test_findMedianSortedArrays() {
     vector<int> nums1{1, 3};
     vector<int> nums2{2};
 

@@ -148,4 +148,5 @@ add_executable(DataStruct
         leetcode/search_2.cpp
         leetcode/findMin.cpp
         leetcode/singleNonDuplicate.cpp
-        leetcode/findMedianSortedArrays.cpp)
+        leetcode/findMedianSortedArrays.cpp
+        leetcode/reverseList.cpp)
