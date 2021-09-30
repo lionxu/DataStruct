@@ -151,4 +151,5 @@ add_executable(DataStruct
         leetcode/findMedianSortedArrays.cpp
         leetcode/reverseList.cpp
         leetcode/addTwoNumbers.cpp
-        leetcode/removeNthFromEnd.cpp)
+        leetcode/removeNthFromEnd.cpp
+        leetcode/mergeTwoLists.cpp)
