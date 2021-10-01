@@ -152,4 +152,5 @@ add_executable(DataStruct
         leetcode/reverseList.cpp
         leetcode/addTwoNumbers.cpp
         leetcode/removeNthFromEnd.cpp
-        leetcode/mergeTwoLists.cpp)
+        leetcode/mergeTwoLists.cpp
+        leetcode/mergeKLists.cpp)
