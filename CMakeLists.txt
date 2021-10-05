@@ -153,4 +153,5 @@ add_executable(DataStruct
         leetcode/addTwoNumbers.cpp
         leetcode/removeNthFromEnd.cpp
         leetcode/mergeTwoLists.cpp
-        leetcode/mergeKLists.cpp)
+        leetcode/mergeKLists.cpp
+        leetcode/swapPairs.cpp)
