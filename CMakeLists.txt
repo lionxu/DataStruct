@@ -155,4 +155,5 @@ add_executable(DataStruct
         leetcode/mergeTwoLists.cpp
         leetcode/mergeKLists.cpp
         leetcode/swapPairs.cpp
-        leetcode/reverseKGroup.cpp)
+        leetcode/reverseKGroup.cpp
+        leetcode/rotateRight.cpp)
