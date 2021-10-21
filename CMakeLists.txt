@@ -158,4 +158,5 @@ add_executable(DataStruct
         leetcode/reverseKGroup.cpp
         leetcode/rotateRight.cpp
         leetcode/deleteDuplicates__II.cpp
-        leetcode/deleteDuplicates.cpp)
+        leetcode/deleteDuplicates.cpp
+        leetcode/partition.cpp)
