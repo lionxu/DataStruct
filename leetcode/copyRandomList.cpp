@@ -21,7 +21,7 @@ public:
         }
 
         Node *new_head = head->next;
-        for (Node *node = head; node != nullptr; node = node->next->next) {
+        for (Node *node = head; node != nullptr; node = node->next) {
             Node *new_node = node->next;
             node->next = node->next->next;
             new_node->next = new_node->next != nullptr ? new_node->next->next : nullptr;
