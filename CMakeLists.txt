@@ -166,4 +166,5 @@ add_executable(DataStruct
         leetcode/copyRandomList.cpp
         leetcode/reorderList.cpp
         leetcode/DLinkedNode.h
-        leetcode/LRUCache.cpp)
+        leetcode/LRUCache.cpp
+        leetcode/insertionSortList.cpp)
