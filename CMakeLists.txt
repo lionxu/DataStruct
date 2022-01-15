@@ -168,4 +168,5 @@ add_executable(DataStruct
         leetcode/DLinkedNode.h
         leetcode/LRUCache.cpp
         leetcode/insertionSortList.cpp
-        leetcode/sortList.cpp)
+        leetcode/sortList.cpp
+        leetcode/getIntersectionNode.cpp)
