@@ -1,5 +1,6 @@
 #include <string>
 #include <list>
+#include <iostream>
 #include <unordered_set>
 #include <unordered_map>
 
@@ -50,7 +51,7 @@ public:
             if (current_node->val > 1) {
                 auto last_node = next(current_node, - 1);
                 if (current_node == nodes.begin() || last_node->val < current_node->val - 1) {
-                    last_node = nodes.insert(last_node, Node(current_node->val - 1));
+                    last_node = nodes.insert(current_node, Node(current_node->val - 1));
                 }
                 last_node->keys.insert(key);
                 key2iterator[key] = last_node;
@@ -77,3 +78,18 @@ private:
     unordered_map<string, list<Node>::iterator> key2iterator;
     list<Node> nodes;
 };
+
+int main() {
+    auto* allOne = new AllOne();
+    allOne->inc("hello");
+    allOne->inc("hello");
+
+    cout << allOne->getMaxKey() << endl;
+    cout << allOne->getMinKey() << endl;
+
+    allOne->inc("leet");
+    cout << allOne->getMaxKey() << endl;
+    cout << allOne->getMinKey() << endl;
+
+    return 0;
+}
