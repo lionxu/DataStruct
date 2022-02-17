@@ -170,4 +170,5 @@ add_executable(DataStruct
         leetcode/insertionSortList.cpp
         leetcode/sortList.cpp
         leetcode/getIntersectionNode.cpp
-        leetcode/twitter.cpp)
+        leetcode/twitter.cpp
+        leetcode/AllOne.cpp)
